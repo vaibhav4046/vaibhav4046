@@ -1,107 +1,100 @@
-<!-- BANNER: Deep navy wave — no name, just the shape -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0E1A&height=180&section=header" width="100%"/>
-</div>
 
-<!-- ANIMATED TERMINAL IDENTITY BLOCK -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=600&color=00C8FF&center=true&vCenter=true&repeat=true&width=700&lines=%3E%3E+Booting+AI_CORE+v2.0...;%3E%3E+LangChain+%7C+LLMs+%7C+Agents+%7C+RAG;%3E%3E+AI+Engineer+%2F+Full-Stack+%2F+MLOps;%3E%3E+vaibhav4046+%E2%80%94+system+online+%E2%96%8C" alt="terminal" />
+<!-- HEADER: venom-style anime wave — dark navy to ice blue -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0E1A,50:00182e,100:00C8FF&height=220&section=header&animation=fadeIn&fontAlpha=0" width="100%"/>
+
+<!-- BOOTING TERMINAL ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=600&color=00C8FF&center=true&vCenter=true&repeat=true&width=700&lines=%3E%3E%3E+Booting+AI_CORE+v2.0...;%3E%3E%3E+LangChain+%7C+LLMs+%7C+Agents+%7C+RAG;%3E%3E%3E+AI+Engineer+%2F+Full-Stack+%2F+MLOps;%3E%3E%3E+system+online+%E2%96%8C" alt="terminal"/>
+
+<br/>
+
+<!-- TAGLINE PULSE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=4500&pause=2500&color=7DD3FC&center=true&vCenter=true&repeat=true&width=600&lines=building+systems+that+learn+%2F+reason+%2F+automate" alt="tagline"/>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=4000&pause=2000&color=7DD3FC&center=true&vCenter=true&repeat=true&width=600&lines=building+systems+that+learn+%2F+reason+%2F+automate" alt="subtitle" />
-</div>
+<!-- GLOWING CYAN DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ◈ about &nbsp; <img align="right" src="https://github-readme-stats.vercel.app/api?username=vaibhav4046&show_icons=true&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" width="370"/>
+
+**AI Engineer & Full-Stack Developer** — building production-grade intelligent systems at the intersection of large language models, agentic architectures, and scalable software.
+
+- `⬡` **RAG pipelines** · multi-agent orchestration · LangChain
+- `⬡` **Edge AI** benchmarking · MLOps · on-device model evaluation
+- `⬡` **Full-stack** · MERN · TypeScript · cloud-native
 
 <br/>
 
----
+`open to` AI & ML engineering · full-stack · early-stage product dev
 
-## About
+<br clear="right"/>
 
-I am an **AI Engineer and Full-Stack Developer** focused on building production-grade intelligent systems. My work sits at the intersection of **large language models, agentic architectures, and scalable software** — designing RAG pipelines, multi-agent orchestration frameworks, and full-stack applications that bring AI to practical use.
+<!-- GLOWING CYAN DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- **Currently developing:** Intelligent automation systems using LangChain, local LLMs, and agentic orchestration
-- **Areas of focus:** Edge AI benchmarking, MLOps pipelines, and on-device model evaluation
-- **Prior work:** Blockchain identity platforms, AI-powered browser extensions, student collaboration systems, algorithmic trading systems
-- **Open to:** AI and ML engineering roles, full-stack positions, and early-stage product development
-- **Contact:** [LinkedIn](https://linkedin.com/in/vaibhav-lalwani)
-
----
-
-## Technical Stack
-
-**AI / ML / LLMs**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00C8FF)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=00C8FF)
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logoColor=00C8FF)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=00C8FF)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=00C8FF)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0D1117?style=flat-square&logoColor=00C8FF)
-
-**Full-Stack**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00C8FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00C8FF)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00C8FF)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=00C8FF)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=00C8FF)
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=00C8FF)
-
-**Cloud / DevOps / MLOps**
-
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00C8FF)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=00C8FF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00C8FF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=github-actions&logoColor=00C8FF)
-
-**Blockchain**
-
-![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=flat-square&logo=solidity&logoColor=00C8FF)
-![Ethereum](https://img.shields.io/badge/Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=00C8FF)
-![Web3.js](https://img.shields.io/badge/Web3.js-0D1117?style=flat-square&logo=web3.js&logoColor=00C8FF)
-
----
-
-## Selected Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**edgebench-local-guardrails**](https://github.com/vaibhav4046/edgebench-local-guardrails) | Offline benchmark suite for local Ollama models — measures latency per model, enforces strict JSON schema output validation, and generates comparative evaluation reports | Python · Ollama · JSON Schema |
-| [**TrustVault**](https://github.com/zs0c131y/TrustVault) | Blockchain platform for tamper-proof storage of government identity documents and property records via Ethereum smart contracts — immutable, verifiable, decentralized | Solidity · JavaScript · Ethereum |
-| [**Scholar.AI Chrome Extension**](https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension) | Browser extension that transforms any research paper into an interactive session — AI-powered summarization, key extraction, and contextual Q&A directly on PDFs | JavaScript · OpenAI API · Chrome APIs |
-| [**Scoping Review RAG Pipeline**](https://github.com/vaibhav4046/Scoping_Review_RAG_Pipeline) | Production RAG pipeline for systematic literature review — chunking, embedding, retrieval, and synthesis over large academic paper corpora | Python · LangChain · Vector DB |
-| [**OneStop**](https://github.com/Dazai-arch/OneStop) | Student project collaboration platform featuring task scheduling, team management, deadline tracking, and role-based access control | HTML · JavaScript · Node.js |
-
----
-
-## Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav4046&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00C8FF&icon_color=00C8FF&text_color=7DD3FC&bg_color=0A0E1A" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav4046&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=00C8FF&text_color=7DD3FC&bg_color=0A0E1A" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vaibhav4046&theme=github-dark-blue&hide_border=true&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&sideLabels=7DD3FC&background=0A0E1A" height="170"/>
-</div>
-
----
-
-## Connect
+## ◈ stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E1A?style=flat-square&logo=linkedin&logoColor=00C8FF)](https://linkedin.com/in/vaibhav-lalwani)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0A0E1A?style=flat-square&logo=github&logoColor=00C8FF)](https://github.com/vaibhav4046)
+**ai · ml · llms**
+
+[![Python](https://img.shields.io/badge/Python-0A0E1A?style=for-the-badge&logo=python&logoColor=00C8FF)](#) [![LangChain](https://img.shields.io/badge/LangChain-0A0E1A?style=for-the-badge&logo=chainlink&logoColor=00C8FF)](#) [![OpenAI](https://img.shields.io/badge/OpenAI-0A0E1A?style=for-the-badge&logo=openai&logoColor=00C8FF)](#) [![Ollama](https://img.shields.io/badge/Ollama-0A0E1A?style=for-the-badge&logo=ollama&logoColor=00C8FF)](#) [![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0E1A?style=for-the-badge&logo=huggingface&logoColor=00C8FF)](#) [![FAISS](https://img.shields.io/badge/FAISS%2FChroma-0A0E1A?style=for-the-badge&logo=meta&logoColor=00C8FF)](#)
+
+**full-stack**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-0A0E1A?style=for-the-badge&logo=typescript&logoColor=00C8FF)](#) [![React](https://img.shields.io/badge/React-0A0E1A?style=for-the-badge&logo=react&logoColor=00C8FF)](#) [![Next.js](https://img.shields.io/badge/Next.js-0A0E1A?style=for-the-badge&logo=nextdotjs&logoColor=00C8FF)](#) [![Node.js](https://img.shields.io/badge/Node.js-0A0E1A?style=for-the-badge&logo=nodedotjs&logoColor=00C8FF)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-0A0E1A?style=for-the-badge&logo=mongodb&logoColor=00C8FF)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E1A?style=for-the-badge&logo=postgresql&logoColor=00C8FF)](#)
+
+**cloud · devops · mlops**
+
+[![Docker](https://img.shields.io/badge/Docker-0A0E1A?style=for-the-badge&logo=docker&logoColor=00C8FF)](#) [![AWS](https://img.shields.io/badge/AWS-0A0E1A?style=for-the-badge&logo=amazonaws&logoColor=00C8FF)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0E1A?style=for-the-badge&logo=githubactions&logoColor=00C8FF)](#) [![Solidity](https://img.shields.io/badge/Solidity-0A0E1A?style=for-the-badge&logo=solidity&logoColor=00C8FF)](#)
 
 </div>
 
-<!-- FOOTER -->
+<!-- GLOWING CYAN DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ◈ selected projects
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0E1A&height=100&section=footer" width="100%"/>
+
+| ◈ project | description | stack |
+|:---|:---|:---|
+| [**edgebench-local-guardrails**](https://github.com/vaibhav4046/edgebench-local-guardrails) | offline benchmark suite for local LLMs — latency, JSON schema guardrails, comparative reports | `Python` `Ollama` `JSON Schema` |
+| [**Scholar.AI**](https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension) | chrome extension — transforms any research paper into an interactive AI session with summarization & Q&A | `JavaScript` `OpenAI` `Chrome APIs` |
+| [**TrustVault**](https://github.com/vaibhav4046/TrustVault) | blockchain identity platform — tamper-proof govt docs & property records on Ethereum | `Solidity` `JavaScript` `Ethereum` |
+| [**OneStop**](https://github.com/vaibhav4046/OneStop) | student collaboration platform — task scheduling, team management, role-based access | `HTML` `JavaScript` `Node.js` |
+
+</div>
+
+<!-- GLOWING CYAN DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ◈ statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vaibhav4046&theme=dark&hide_border=true&stroke=00C8FF&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&background=0d1117&dates=7DD3FC&sideLabels=00C8FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav4046&layout=compact&hide_border=true&title_color=00C8FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" width="37%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav4046&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C8FF&line=00C8FF&point=ffffff&area_color=001830&area=true" width="98%"/>
+
+</div>
+
+<!-- GLOWING CYAN DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=00C8FF)](https://linkedin.com/in/vaibhav-lalwani)
+
+</div>
+
+<!-- FOOTER WAVE: reversed ice-blue fade -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,50:001830,100:0A0E1A&height=130&section=footer&reversal=false" width="100%"/>
 </div>
