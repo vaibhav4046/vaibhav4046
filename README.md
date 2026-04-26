@@ -1,100 +1,142 @@
 <div align="center">
 
-<!-- HEADER: venom-style anime wave — dark navy to ice blue -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0E1A,50:00182e,100:00C8FF&height=220&section=header&animation=fadeIn&fontAlpha=0" width="100%"/>
+# Vaibhav Lalwani
 
-<!-- BOOTING TERMINAL ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=600&color=00C8FF&center=true&vCenter=true&repeat=true&width=700&lines=%3E%3E%3E+Booting+AI_CORE+v2.0...;%3E%3E%3E+LangChain+%7C+LLMs+%7C+Agents+%7C+RAG;%3E%3E%3E+AI+Engineer+%2F+Full-Stack+%2F+MLOps;%3E%3E%3E+system+online+%E2%96%8C" alt="terminal"/>
+### AI Engineer · Full-Stack Developer
+
+Building production systems where LLMs, agents, and modern web meet.
+RAG pipelines · multi-agent orchestration · edge AI benchmarking · MERN.
+
+<a href="https://linkedin.com/in/vaibhav-lalwani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vaibhav.lalwani.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/vaibhav4046"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=vaibhav4046&style=flat-square&color=0a66c2&label=Profile+views" />
+
+</div>
+
+---
+
+## About
+
+I ship AI-powered software end-to-end — from retrieval pipelines and agent orchestration to the React front-end users actually click. Comfortable in Python and TypeScript, allergic to vibes-only code, biased toward tools that work offline.
+
+- **LLM systems** — RAG, multi-agent workflows, structured-output guardrails (LangChain, LangGraph, Anthropic & OpenAI APIs)
+- **Edge & local AI** — Ollama benchmarking, schema-constrained inference, on-device evaluation
+- **Full-stack web** — Next.js 15, TypeScript, Supabase, Tailwind, ship-it-Friday velocity
+- **Cloud / DevOps** — Docker, GitHub Actions, AWS, Vercel — repeatable deploys, no manual steps
+
+`open to` AI / ML engineering · full-stack roles · early-stage product dev
+
+---
+
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Scholar.AI Chrome Extension](https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension)
+
+AI research assistant in your browser. Summarizes any paper, chats with it, and exports citations. Manifest V3, Gemini 2.5 native PDF input, side-panel mode, structured extractors for arXiv / PubMed / Nature / IEEE / bioRxiv.
+
+`JavaScript` `Manifest V3` `Gemini API` `Semantic Scholar`
+
+</td>
+<td width="50%" valign="top">
+
+### [Scoping Review RAG Pipeline](https://github.com/vaibhav4046/Scoping_Review_RAG_Pipeline)
+
+Production RAG over large academic-paper corpora. LangChain-powered chunking, embedding, retrieval, and synthesis for systematic literature review at scale.
+
+`Python` `LangChain` `OpenAI` `Vector DB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [edgebench-local-guardrails](https://github.com/vaibhav4046/edgebench-local-guardrails)
+
+Offline benchmark suite for local Ollama LLMs on Windows. Measures per-model latency, enforces JSON-schema output guardrails, generates comparative reports.
+
+`Python` `Ollama` `JSON Schema` `Pydantic`
+
+</td>
+<td width="50%" valign="top">
+
+### [antivibe](https://github.com/vaibhav4046/antivibe)
+
+Claude Code skill that turns AI-generated code into educational deep-dives. Built so devs *learn* what AI writes, not just accept it.
+
+`Claude Code` `Skills` `Markdown` `Python`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech stack
+
+<div align="center">
+
+**LLMs · agents · retrieval**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+**Full-stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Cloud · DevOps · MLOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=vaibhav4046&show_icons=true&hide_border=true&title_color=0a66c2&icon_color=0a66c2&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="155" src="https://streak-stats.demolab.com?user=vaibhav4046&theme=dark&hide_border=true&stroke=0a66c2&ring=0a66c2&fire=0a66c2&currStreakLabel=0a66c2&background=0d1117&dates=8b949e&sideLabels=0a66c2" />
 
 <br/>
 
-<!-- TAGLINE PULSE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=4500&pause=2500&color=7DD3FC&center=true&vCenter=true&repeat=true&width=600&lines=building+systems+that+learn+%2F+reason+%2F+automate" alt="tagline"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav4046&layout=compact&hide_border=true&title_color=0a66c2&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 
 </div>
 
-<br/>
+---
 
-<!-- GLOWING CYAN DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## Currently
 
-## ◈ about &nbsp; <img align="right" src="https://github-readme-stats.vercel.app/api?username=vaibhav4046&show_icons=true&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" width="370"/>
+- Shipping **AdmitOS** — AI-driven study-abroad MVP on Next.js 15 + Supabase
+- Iterating on **Scholar.AI v2** — full Gemini PDF support, side-panel chat, library mode
+- Reading: agentic eval frameworks, prompt-cache patterns, MCP server design
 
-**AI Engineer & Full-Stack Developer** — building production-grade intelligent systems at the intersection of large language models, agentic architectures, and scalable software.
-
-- `⬡` **RAG pipelines** · multi-agent orchestration · LangChain
-- `⬡` **Edge AI** benchmarking · MLOps · on-device model evaluation
-- `⬡` **Full-stack** · MERN · TypeScript · cloud-native
-
-<br/>
-
-`open to` AI & ML engineering · full-stack · early-stage product dev
-
-<br clear="right"/>
-
-<!-- GLOWING CYAN DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ◈ stack
+---
 
 <div align="center">
-
-**ai · ml · llms**
-
-[![Python](https://img.shields.io/badge/Python-0A0E1A?style=for-the-badge&logo=python&logoColor=00C8FF)](#) [![LangChain](https://img.shields.io/badge/LangChain-0A0E1A?style=for-the-badge&logo=chainlink&logoColor=00C8FF)](#) [![OpenAI](https://img.shields.io/badge/OpenAI-0A0E1A?style=for-the-badge&logo=openai&logoColor=00C8FF)](#) [![Ollama](https://img.shields.io/badge/Ollama-0A0E1A?style=for-the-badge&logo=ollama&logoColor=00C8FF)](#) [![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0E1A?style=for-the-badge&logo=huggingface&logoColor=00C8FF)](#) [![FAISS](https://img.shields.io/badge/FAISS%2FChroma-0A0E1A?style=for-the-badge&logo=meta&logoColor=00C8FF)](#)
-
-**full-stack**
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-0A0E1A?style=for-the-badge&logo=typescript&logoColor=00C8FF)](#) [![React](https://img.shields.io/badge/React-0A0E1A?style=for-the-badge&logo=react&logoColor=00C8FF)](#) [![Next.js](https://img.shields.io/badge/Next.js-0A0E1A?style=for-the-badge&logo=nextdotjs&logoColor=00C8FF)](#) [![Node.js](https://img.shields.io/badge/Node.js-0A0E1A?style=for-the-badge&logo=nodedotjs&logoColor=00C8FF)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-0A0E1A?style=for-the-badge&logo=mongodb&logoColor=00C8FF)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E1A?style=for-the-badge&logo=postgresql&logoColor=00C8FF)](#)
-
-**cloud · devops · mlops**
-
-[![Docker](https://img.shields.io/badge/Docker-0A0E1A?style=for-the-badge&logo=docker&logoColor=00C8FF)](#) [![AWS](https://img.shields.io/badge/AWS-0A0E1A?style=for-the-badge&logo=amazonaws&logoColor=00C8FF)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0E1A?style=for-the-badge&logo=githubactions&logoColor=00C8FF)](#) [![Solidity](https://img.shields.io/badge/Solidity-0A0E1A?style=for-the-badge&logo=solidity&logoColor=00C8FF)](#)
-
-</div>
-
-<!-- GLOWING CYAN DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ◈ selected projects
-
-<div align="center">
-
-| ◈ project | description | stack |
-|:---|:---|:---|
-| [**edgebench-local-guardrails**](https://github.com/vaibhav4046/edgebench-local-guardrails) | offline benchmark suite for local LLMs — latency, JSON schema guardrails, comparative reports | `Python` `Ollama` `JSON Schema` |
-| [**Scholar.AI**](https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension) | chrome extension — transforms any research paper into an interactive AI session with summarization & Q&A | `JavaScript` `OpenAI` `Chrome APIs` |
-| [**TrustVault**](https://github.com/vaibhav4046/TrustVault) | blockchain identity platform — tamper-proof govt docs & property records on Ethereum | `Solidity` `JavaScript` `Ethereum` |
-| [**OneStop**](https://github.com/vaibhav4046/OneStop) | student collaboration platform — task scheduling, team management, role-based access | `HTML` `JavaScript` `Node.js` |
-
-</div>
-
-<!-- GLOWING CYAN DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ◈ statistics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vaibhav4046&theme=dark&hide_border=true&stroke=00C8FF&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&background=0d1117&dates=7DD3FC&sideLabels=00C8FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav4046&layout=compact&hide_border=true&title_color=00C8FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" width="37%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav4046&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C8FF&line=00C8FF&point=ffffff&area_color=001830&area=true" width="98%"/>
-
-</div>
-
-<!-- GLOWING CYAN DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=00C8FF)](https://linkedin.com/in/vaibhav-lalwani)
-
-</div>
-
-<!-- FOOTER WAVE: reversed ice-blue fade -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,50:001830,100:0A0E1A&height=130&section=footer&reversal=false" width="100%"/>
+<sub>Last updated 2026 · <a href="https://github.com/vaibhav4046">github.com/vaibhav4046</a></sub>
 </div>
