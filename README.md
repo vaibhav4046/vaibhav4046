@@ -35,6 +35,15 @@ I ship AI-powered software end-to-end — from retrieval pipelines and agent orc
 <tr>
 <td width="50%" valign="top">
 
+### [MCP Marketplace](https://github.com/vaibhav4046/mcp-marketplace) · [live →](https://mcp-hub-registry.vercel.app)
+
+The registry of Model Context Protocol servers. Browse 800+ servers, copy install snippets for Claude Code / Desktop, ship your own. Auto-syncs from Glama + the official MCP repo daily. Next.js 15 RSC, ⌘K palette, dynamic OG cards, full keyboard nav.
+
+`Next.js 15` `TypeScript` `Tailwind` `MCP` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
 ### [Scholar.AI Chrome Extension](https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension)
 
 AI research assistant in your browser. Summarizes any paper, chats with it, and exports citations. Manifest V3, Gemini 2.5 native PDF input, side-panel mode, structured extractors for arXiv / PubMed / Nature / IEEE / bioRxiv.
@@ -42,6 +51,8 @@ AI research assistant in your browser. Summarizes any paper, chats with it, and 
 `JavaScript` `Manifest V3` `Gemini API` `Semantic Scholar`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Scoping Review RAG Pipeline](https://github.com/vaibhav4046/Scoping_Review_RAG_Pipeline)
@@ -51,8 +62,6 @@ Production RAG over large academic-paper corpora. LangChain-powered chunking, em
 `Python` `LangChain` `OpenAI` `Vector DB`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [edgebench-local-guardrails](https://github.com/vaibhav4046/edgebench-local-guardrails)
@@ -62,6 +71,8 @@ Offline benchmark suite for local Ollama LLMs on Windows. Measures per-model lat
 `Python` `Ollama` `JSON Schema` `Pydantic`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [antivibe](https://github.com/vaibhav4046/antivibe)
@@ -69,6 +80,11 @@ Offline benchmark suite for local Ollama LLMs on Windows. Measures per-model lat
 Claude Code skill that turns AI-generated code into educational deep-dives. Built so devs *learn* what AI writes, not just accept it.
 
 `Claude Code` `Skills` `Markdown` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;
 
 </td>
 </tr>
@@ -131,6 +147,7 @@ Claude Code skill that turns AI-generated code into educational deep-dives. Buil
 
 ## Currently
 
+- Shipping **MCP Marketplace** — public registry, auto-syncs daily, [mcp-hub-registry.vercel.app](https://mcp-hub-registry.vercel.app)
 - Iterating on **Scholar.AI v2** — full Gemini PDF support, side-panel chat, library mode
 - Building local-first agent tooling around Ollama + structured-output guardrails
 - Reading: agentic eval frameworks, prompt-cache patterns, MCP server design
