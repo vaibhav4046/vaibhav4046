@@ -131,8 +131,8 @@ Claude Code skill that turns AI-generated code into educational deep-dives. Buil
 
 ## Currently
 
-- Shipping **AdmitOS** — AI-driven study-abroad MVP on Next.js 15 + Supabase
 - Iterating on **Scholar.AI v2** — full Gemini PDF support, side-panel chat, library mode
+- Building local-first agent tooling around Ollama + structured-output guardrails
 - Reading: agentic eval frameworks, prompt-cache patterns, MCP server design
 
 ---
