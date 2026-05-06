@@ -17,7 +17,7 @@
 
 ### About
 
-Full-stack engineer who pairs production React/TypeScript front-ends with Python AI services in real shipping products. Currently building **UniOffer / ADMITOS** — an AI-guided admissions platform — at **Meta Solution Technologies**, after two years freelancing 20+ LLM-powered apps for paying clients on Claude, OpenAI and LangChain. **MSc Advanced Data Science & AI** at the University of Liverpool.
+Full-stack engineer who pairs production React/TypeScript front-ends with Python AI services in real shipping products. Currently building **UniOffer / ADMITOS**, an AI-guided admissions platform, at **Meta Solution Technologies**, after two years freelancing 20+ LLM-powered apps for paying clients on Claude, OpenAI and LangChain. **MSc Advanced Data Science & AI** at the University of Liverpool.
 
 I write code that other people maintain, document the workflows so non-engineers can run them, and use AI tooling daily as part of the work rather than as a side project.
 
@@ -127,7 +127,7 @@ const vaibhav = {
   </a>
   <h4><a href="https://github.com/vaibhav4046/edgebench-local-guardrails">EdgeBench</a></h4>
   <p align="left">
-    Offline benchmark suite for local Ollama LLMs on Windows. Per-model latency, JSON-schema output guardrails, comparative reports. Local-first — no cloud calls, no telemetry, your hardware your numbers.
+    Offline benchmark suite for local Ollama LLMs on Windows. Per-model latency, JSON-schema output guardrails, comparative reports. Local-first. No cloud calls, no telemetry, your hardware your numbers.
   </p>
   <p>
     <code>Python</code> <code>Ollama</code> <code>Pydantic</code> <code>JSON Schema</code>
@@ -226,10 +226,10 @@ const vaibhav = {
 
 ### Currently
 
-- Building **UniOffer / ADMITOS** at Meta Solution Technologies — Next.js 15 + React 19 + Python LLM service over typed REST, Postgres + pgvector
-- Shipping **MCP Marketplace** — public registry, auto-syncs daily · [mcp-hub-registry.vercel.app](https://mcp-hub-registry.vercel.app)
-- Iterating on **Scholar.AI v2** — Gemini PDF, side-panel chat, library mode
-- MSc Advanced Data Science & AI at University of Liverpool (Jan 2026 – Jan 2027)
+- Building **UniOffer / ADMITOS** at Meta Solution Technologies. Next.js 15 + React 19 + Python LLM service over typed REST, Postgres + pgvector
+- Shipping **MCP Marketplace**. Public registry, auto-syncs daily · [mcp-hub-registry.vercel.app](https://mcp-hub-registry.vercel.app)
+- Iterating on **Scholar.AI v2**. Gemini PDF, side-panel chat, library mode
+- MSc Advanced Data Science & AI at University of Liverpool (Jan 2026 to Jan 2027)
 - Reading: agentic eval frameworks, prompt-cache patterns, MCP server design
 
 <br/>
