@@ -11,7 +11,6 @@
   <a href="mailto:vaibhavlalwani26969@gmail.com"><img src="https://img.shields.io/badge/Email-3F4147?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://vaibhavlalwani.vercel.app"><img src="https://img.shields.io/badge/Portfolio-3F4147?style=flat-square&logo=vercel&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Liverpool%2C%20UK-3F4147?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=vaibhav4046&style=flat-square&color=3F4147&label=views" />
 </p>
 
 <br/>
