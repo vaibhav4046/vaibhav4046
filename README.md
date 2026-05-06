@@ -42,10 +42,10 @@ const vaibhav = {
   <h4>
     <a href="https://github.com/vaibhav4046/mcp-marketplace">MCP Marketplace</a>
     &nbsp;·&nbsp;
-    <a href="https://mcp-hub-registry.vercel.app">live →</a>
+    <a href="https://mcp-hub-registry.vercel.app">live</a>
   </h4>
   <p align="left">
-    The registry of Model Context Protocol servers. Browse 800+ servers, copy install snippets for any MCP-aware client, ship your own. Auto-syncs from Glama + the official MCP repo daily. Next.js 15 RSC, ⌘K palette, dynamic OG cards, full keyboard nav.
+    The registry of Model Context Protocol servers. Browse 800+ servers, copy install snippets for any MCP-aware client, ship your own. Auto-syncs from Glama + the official MCP repo daily. Next.js 15 RSC, Cmd-K palette, dynamic OG cards, full keyboard nav.
   </p>
   <p>
     <code>Next.js 15</code> <code>TypeScript</code> <code>Tailwind</code> <code>MCP</code> <code>Vercel</code>
@@ -73,7 +73,7 @@ const vaibhav = {
   <h4>
     <a href="https://github.com/vaibhav4046/MedReviewAI">MedReviewAI</a>
     &nbsp;·&nbsp;
-    <a href="https://medai-deploy.vercel.app">live →</a>
+    <a href="https://medai-deploy.vercel.app">live</a>
   </h4>
   <p align="left">
     Extract structured insights from medical research papers in seconds. PICO frame, confidence scoring, multi-source search across PubMed + bioRxiv + medRxiv. Built for clinicians and researchers who need answers, not abstracts.
@@ -92,7 +92,7 @@ const vaibhav = {
   <h4>
     <a href="https://github.com/vaibhav4046/cogniloop">CogniLoop</a>
     &nbsp;·&nbsp;
-    <a href="https://cogniloop-vaibhav4046s-projects.vercel.app">live →</a>
+    <a href="https://cogniloop-vaibhav4046s-projects.vercel.app">live</a>
   </h4>
   <p align="left">
     AI tutor that refuses to give answers. Socratic-method LLM agent that pushes students toward the solution with hints, not handouts. Conversation memory, hint escalation, topic tracking.
@@ -135,7 +135,7 @@ const vaibhav = {
   <h4>
     <a href="https://github.com/vaibhav4046/vaibhav-portfolio">Portfolio</a>
     &nbsp;·&nbsp;
-    <a href="https://vaibhavlalwani.vercel.app">live →</a>
+    <a href="https://vaibhavlalwani.vercel.app">live</a>
   </h4>
   <p align="left">
     Personal portfolio site. Hand-coded layout with smooth scroll, glass-morphism cards, dark/light theming, responsive across breakpoints. Showcases case studies, contact, current writing.
