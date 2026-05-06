@@ -33,59 +33,110 @@ I ship AI-powered software end-to-end — from retrieval pipelines and agent orc
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### [MCP Marketplace](https://github.com/vaibhav4046/mcp-marketplace) · [live →](https://mcp-hub-registry.vercel.app)
-
-The registry of Model Context Protocol servers. Browse 800+ servers, copy install snippets for Claude Code / Desktop, ship your own. Auto-syncs from Glama + the official MCP repo daily. Next.js 15 RSC, ⌘K palette, dynamic OG cards, full keyboard nav.
-
-`Next.js 15` `TypeScript` `Tailwind` `MCP` `Vercel`
-
-</td>
-<td width="50%" valign="top">
-
-### [Scholar.AI Chrome Extension](https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension)
-
-AI research assistant in your browser. Summarizes any paper, chats with it, and exports citations. Manifest V3, Gemini 2.5 native PDF input, side-panel mode, structured extractors for arXiv / PubMed / Nature / IEEE / bioRxiv.
-
-`JavaScript` `Manifest V3` `Gemini API` `Semantic Scholar`
-
+<td colspan="2" align="center">
+  <a href="https://github.com/vaibhav4046/mcp-marketplace">
+    <img src="https://raw.githubusercontent.com/vaibhav4046/mcp-marketplace/main/docs/screenshots/hero.png" alt="MCP Marketplace" width="100%" />
+  </a>
+  <h3>
+    <a href="https://github.com/vaibhav4046/mcp-marketplace">MCP Marketplace</a>
+    &nbsp;·&nbsp;
+    <a href="https://mcp-hub-registry.vercel.app">live →</a>
+  </h3>
+  <p>
+    The registry of Model Context Protocol servers. Browse 800+ servers, copy install snippets for Claude Code / Desktop, ship your own. Auto-syncs from Glama + the official MCP repo daily. Next.js 15 RSC, ⌘K palette, dynamic OG cards, full keyboard nav.
+  </p>
+  <p>
+    <code>Next.js 15</code> <code>TypeScript</code> <code>Tailwind</code> <code>MCP</code> <code>Vercel</code>
+  </p>
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-
-### [Scoping Review RAG Pipeline](https://github.com/vaibhav4046/Scoping_Review_RAG_Pipeline)
-
-Production RAG over large academic-paper corpora. LangChain-powered chunking, embedding, retrieval, and synthesis for systematic literature review at scale.
-
-`Python` `LangChain` `OpenAI` `Vector DB`
-
+  <a href="https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension">
+    <img src="https://raw.githubusercontent.com/vaibhav4046/Scholar.AI-Chrome-Extension/main/docs/screenshots/hero.png" alt="Scholar.AI Chrome Extension" width="100%" />
+  </a>
+  <h3><a href="https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension">Scholar.AI</a></h3>
+  <p>
+    AI research assistant in your browser. Summarizes any paper, chats with it, and exports citations in APA / MLA / BibTeX. Manifest V3, Gemini 2.5 native PDF input, side-panel mode, structured extractors for arXiv, PubMed, Nature, IEEE, bioRxiv.
+  </p>
+  <p>
+    <code>JavaScript</code> <code>Manifest V3</code> <code>Gemini API</code>
+  </p>
 </td>
 <td width="50%" valign="top">
-
-### [edgebench-local-guardrails](https://github.com/vaibhav4046/edgebench-local-guardrails)
-
-Offline benchmark suite for local Ollama LLMs on Windows. Measures per-model latency, enforces JSON-schema output guardrails, generates comparative reports.
-
-`Python` `Ollama` `JSON Schema` `Pydantic`
-
+  <a href="https://github.com/vaibhav4046/MedReviewAI">
+    <img src="https://raw.githubusercontent.com/vaibhav4046/MedReviewAI/main/docs/screenshots/hero.png" alt="MedReviewAI" width="100%" />
+  </a>
+  <h3>
+    <a href="https://github.com/vaibhav4046/MedReviewAI">MedReviewAI</a>
+    &nbsp;·&nbsp;
+    <a href="https://medai-deploy.vercel.app">live →</a>
+  </h3>
+  <p>
+    Extract structured insights from medical research papers in seconds. PICO frame, confidence scoring, multi-source search across PubMed + bioRxiv + medRxiv. Built for clinicians and researchers who need answers, not abstracts.
+  </p>
+  <p>
+    <code>Next.js</code> <code>OpenAI</code> <code>PubMed API</code>
+  </p>
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-
-### [antivibe](https://github.com/vaibhav4046/antivibe)
-
-Claude Code skill that turns AI-generated code into educational deep-dives. Built so devs *learn* what AI writes, not just accept it.
-
-`Claude Code` `Skills` `Markdown` `Python`
-
+  <a href="https://github.com/vaibhav4046/cogniloop">
+    <img src="https://raw.githubusercontent.com/vaibhav4046/cogniloop/master/docs/screenshots/hero.png" alt="CogniLoop" width="100%" />
+  </a>
+  <h3>
+    <a href="https://github.com/vaibhav4046/cogniloop">CogniLoop</a>
+    &nbsp;·&nbsp;
+    <a href="https://cogniloop-vaibhav4046s-projects.vercel.app">live →</a>
+  </h3>
+  <p>
+    AI tutor that refuses to give answers. Socratic-method LLM agent that pushes students toward the solution with hints, not handouts. Conversation memory, hint escalation, topic tracking.
+  </p>
+  <p>
+    <code>Next.js</code> <code>OpenAI</code> <code>Vercel AI SDK</code>
+  </p>
 </td>
 <td width="50%" valign="top">
+  <a href="https://github.com/vaibhav4046/Scoping_Review_RAG_Pipeline">
+    <img src="https://raw.githubusercontent.com/vaibhav4046/Scoping_Review_RAG_Pipeline/master/docs/screenshots/hero.png" alt="Scoping Review RAG Pipeline" width="100%" />
+  </a>
+  <h3><a href="https://github.com/vaibhav4046/Scoping_Review_RAG_Pipeline">Scoping Review RAG</a></h3>
+  <p>
+    Production literature-review pipeline. LangChain chunking, embedding, retrieval and synthesis over thousands of academic papers. Built for systematic reviews at scale, not toy demos.
+  </p>
+  <p>
+    <code>Python</code> <code>LangChain</code> <code>OpenAI</code> <code>Vector DB</code>
+  </p>
+</td>
+</tr>
 
-&nbsp;
-
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/vaibhav4046/edgebench-local-guardrails">
+    <img src="https://raw.githubusercontent.com/vaibhav4046/edgebench-local-guardrails/master/docs/screenshots/hero.png" alt="EdgeBench Local Guardrails" width="100%" />
+  </a>
+  <h3><a href="https://github.com/vaibhav4046/edgebench-local-guardrails">EdgeBench</a></h3>
+  <p>
+    Offline benchmark suite for local Ollama LLMs on Windows. Per-model latency, JSON-schema output guardrails, comparative reports. Local-first — no cloud calls, no telemetry, your hardware your numbers.
+  </p>
+  <p>
+    <code>Python</code> <code>Ollama</code> <code>Pydantic</code> <code>JSON Schema</code>
+  </p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/vaibhav4046/antivibe">
+    <img src="https://raw.githubusercontent.com/vaibhav4046/antivibe/main/docs/screenshots/hero.png" alt="antivibe" width="100%" />
+  </a>
+  <h3><a href="https://github.com/vaibhav4046/antivibe">antivibe</a></h3>
+  <p>
+    Claude Code skill that turns AI-generated code into educational deep-dives. Built so devs <em>learn</em> what AI writes, not just accept it. Markdown reports, line-by-line breakdowns, idiomatic-pattern callouts.
+  </p>
+  <p>
+    <code>Claude Code</code> <code>Skills</code> <code>Markdown</code> <code>Python</code>
+  </p>
 </td>
 </tr>
 </table>
