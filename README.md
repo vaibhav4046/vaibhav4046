@@ -2,14 +2,15 @@
 
 <p align="center">
   <a href="https://github.com/vaibhav4046">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=540&lines=AI+Engineer+%C2%B7+Full-Stack+Developer;Production+LLM+systems%2C+RAG+%26+agents;Building+at+the+edge+of+local+%2B+cloud+AI" alt="tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=620&lines=Full-Stack+%2B+AI+Engineer+%C2%B7+Liverpool%2C+UK;React+19+%2F+Next.js+15+%2F+TypeScript+%2F+FastAPI;Production+LLM+systems+%C2%B7+RAG+%C2%B7+agents;MSc+Advanced+Data+Science+%26+AI+%40+Liverpool" alt="tagline" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/vaibhav-lalwani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vaibhav.lalwani.work@gmail.com"><img src="https://img.shields.io/badge/Email-3F4147?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:vaibhavlalwani26969@gmail.com"><img src="https://img.shields.io/badge/Email-3F4147?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://vaibhavlalwani.vercel.app"><img src="https://img.shields.io/badge/Portfolio-3F4147?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Liverpool%2C%20UK-3F4147?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=vaibhav4046&style=flat-square&color=3F4147&label=views" />
 </p>
 
@@ -17,15 +18,20 @@
 
 ### About
 
-I ship AI-powered software end-to-end — from retrieval pipelines and agent orchestration to the React front-end users actually click. Comfortable in Python and TypeScript, allergic to vibes-only code, biased toward tools that work offline.
+Full-stack engineer who pairs production React/TypeScript front-ends with Python AI services in real shipping products. Currently building **UniOffer / ADMITOS** — an AI-guided admissions platform — at **Meta Solution Technologies**, after two years freelancing 20+ LLM-powered apps for paying clients on Claude, OpenAI and LangChain. **MSc Advanced Data Science & AI** at the University of Liverpool.
+
+I write code that other people maintain, document the workflows so non-engineers can run them, and use AI tooling daily as part of the work rather than as a side project.
 
 ```ts
 const vaibhav = {
-  role:       "AI Engineer · Full-Stack Developer",
-  stack:      ["Python", "TypeScript", "Next.js 15", "LangChain", "Ollama"],
-  building:   ["RAG pipelines", "Multi-agent workflows", "Edge AI guardrails"],
-  shipped:    ["MCP Marketplace", "Scholar.AI", "MedReviewAI", "CogniLoop"],
-  open_to:    ["AI / ML engineering", "Full-stack roles", "Early-stage product"],
+  role:       "Full-Stack + AI Engineer",
+  location:   "Liverpool, UK",
+  status:     "UK Right to Work · Graduate visa from Jan 2027",
+  stack:      ["TypeScript", "Python", "React 19", "Next.js 15", "FastAPI"],
+  data:       ["Postgres", "Supabase", "pgvector", "Redis", "BullMQ"],
+  ai:         ["LangChain", "OpenAI", "Gemini", "Whisper STT", "MCP servers"],
+  shipping:   ["UniOffer / ADMITOS", "MCP Marketplace", "Scholar.AI v2"],
+  open_to:    ["AI / Full-stack roles", "Graduate placement Jan 2027"],
 };
 ```
 
@@ -151,37 +157,64 @@ const vaibhav = {
 
 ### Stack
 
-<sub>**LLMs · agents · retrieval**</sub><br/>
+<sub>**Languages**</sub><br/>
 ![Python](https://img.shields.io/badge/-Python-1c1c1c?style=flat-square&logo=python&logoColor=ffffff)
-![LangChain](https://img.shields.io/badge/-LangChain-1c1c1c?style=flat-square&logo=langchain&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1c1c1c?style=flat-square&logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1c1c1c?style=flat-square&logo=javascript&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-1c1c1c?style=flat-square&logo=postgresql&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-1c1c1c?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-1c1c1c?style=flat-square&logo=css3&logoColor=ffffff)
+
+<sub>**Frontend**</sub><br/>
+![React 19](https://img.shields.io/badge/-React%2019-1c1c1c?style=flat-square&logo=react&logoColor=ffffff)
+![Next.js 15](https://img.shields.io/badge/-Next.js%2015-1c1c1c?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/-Tailwind-1c1c1c?style=flat-square&logo=tailwindcss&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/-Vite-1c1c1c?style=flat-square&logo=vite&logoColor=ffffff)
+![REST](https://img.shields.io/badge/-REST-1c1c1c?style=flat-square&logo=fastapi&logoColor=ffffff)
+![GraphQL](https://img.shields.io/badge/-GraphQL-1c1c1c?style=flat-square&logo=graphql&logoColor=ffffff)
+
+<sub>**Backend & Data**</sub><br/>
+![FastAPI](https://img.shields.io/badge/-FastAPI-1c1c1c?style=flat-square&logo=fastapi&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-1c1c1c?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![Express](https://img.shields.io/badge/-Express-1c1c1c?style=flat-square&logo=express&logoColor=ffffff)
+![Postgres](https://img.shields.io/badge/-Postgres-1c1c1c?style=flat-square&logo=postgresql&logoColor=ffffff)
+![Supabase](https://img.shields.io/badge/-Supabase-1c1c1c?style=flat-square&logo=supabase&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-1c1c1c?style=flat-square&logo=redis&logoColor=ffffff)
+![BullMQ](https://img.shields.io/badge/-BullMQ-1c1c1c?style=flat-square&logo=redis&logoColor=ffffff)
+![pgvector](https://img.shields.io/badge/-pgvector-1c1c1c?style=flat-square&logo=postgresql&logoColor=ffffff)
+
+<sub>**AI / LLM**</sub><br/>
 ![OpenAI](https://img.shields.io/badge/-OpenAI-1c1c1c?style=flat-square&logo=openai&logoColor=ffffff)
 ![Gemini](https://img.shields.io/badge/-Gemini-1c1c1c?style=flat-square&logo=google&logoColor=ffffff)
-![Ollama](https://img.shields.io/badge/-Ollama-1c1c1c?style=flat-square&logo=ollama&logoColor=ffffff)
-![FAISS](https://img.shields.io/badge/-FAISS-1c1c1c?style=flat-square&logo=meta&logoColor=ffffff)
+![LangChain](https://img.shields.io/badge/-LangChain-1c1c1c?style=flat-square&logo=langchain&logoColor=ffffff)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1c1c1c?style=flat-square&logo=langchain&logoColor=ffffff)
+![Whisper](https://img.shields.io/badge/-Whisper%20STT-1c1c1c?style=flat-square&logo=openai&logoColor=ffffff)
+![MCP](https://img.shields.io/badge/-MCP%20Servers-1c1c1c?style=flat-square&logo=anthropic&logoColor=ffffff)
 
-<sub>**Full-stack**</sub><br/>
-![TypeScript](https://img.shields.io/badge/-TypeScript-1c1c1c?style=flat-square&logo=typescript&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/-Next.js-1c1c1c?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-1c1c1c?style=flat-square&logo=react&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-1c1c1c?style=flat-square&logo=nodedotjs&logoColor=ffffff)
-![Tailwind](https://img.shields.io/badge/-Tailwind-1c1c1c?style=flat-square&logo=tailwindcss&logoColor=ffffff)
-![Supabase](https://img.shields.io/badge/-Supabase-1c1c1c?style=flat-square&logo=supabase&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-Postgres-1c1c1c?style=flat-square&logo=postgresql&logoColor=ffffff)
-
-<sub>**Cloud · DevOps**</sub><br/>
+<sub>**DevOps & Tooling**</sub><br/>
 ![Docker](https://img.shields.io/badge/-Docker-1c1c1c?style=flat-square&logo=docker&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/-AWS-1c1c1c?style=flat-square&logo=amazonaws&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-1c1c1c?style=flat-square&logo=vercel&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-1c1c1c?style=flat-square&logo=git&logoColor=ffffff)
 ![GH Actions](https://img.shields.io/badge/-GH%20Actions-1c1c1c?style=flat-square&logo=githubactions&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-1c1c1c?style=flat-square&logo=linux&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-1c1c1c?style=flat-square&logo=vercel&logoColor=ffffff)
+![GCP](https://img.shields.io/badge/-GCP%20Cloud%20Run-1c1c1c?style=flat-square&logo=googlecloud&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/-AWS-1c1c1c?style=flat-square&logo=amazonaws&logoColor=ffffff)
+![Sentry](https://img.shields.io/badge/-Sentry-1c1c1c?style=flat-square&logo=sentry&logoColor=ffffff)
+![PostHog](https://img.shields.io/badge/-PostHog-1c1c1c?style=flat-square&logo=posthog&logoColor=ffffff)
+![Playwright](https://img.shields.io/badge/-Playwright-1c1c1c?style=flat-square&logo=playwright&logoColor=ffffff)
+![Vitest](https://img.shields.io/badge/-Vitest-1c1c1c?style=flat-square&logo=vitest&logoColor=ffffff)
 
 <br/>
 
-### Stats
+### Activity
 
 <p>
-  <img height="148" src="https://github-readme-stats.vercel.app/api?username=vaibhav4046&show_icons=true&hide_border=true&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&include_all_commits=true&count_private=true&hide_rank=true" />
-  <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav4046&layout=compact&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117&langs_count=8" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhav4046&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaibhav4046&theme=github_dark" />
+</p>
+
+<p>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaibhav4046&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaibhav4046&theme=github_dark&utcOffset=0" />
 </p>
 
 <!-- Snake contribution graph (rendered by .github/workflows/snake.yml) -->
@@ -194,9 +227,10 @@ const vaibhav = {
 
 ### Currently
 
+- Building **UniOffer / ADMITOS** at Meta Solution Technologies — Next.js 15 + React 19 + Python LLM service over typed REST, Postgres + pgvector
 - Shipping **MCP Marketplace** — public registry, auto-syncs daily · [mcp-hub-registry.vercel.app](https://mcp-hub-registry.vercel.app)
 - Iterating on **Scholar.AI v2** — Gemini PDF, side-panel chat, library mode
-- Building local-first agent tooling around Ollama + structured-output guardrails
+- MSc Advanced Data Science & AI at University of Liverpool (Jan 2026 – Jan 2027)
 - Reading: agentic eval frameworks, prompt-cache patterns, MCP server design
 
 <br/>
