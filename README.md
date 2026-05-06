@@ -17,7 +17,7 @@
 
 ### About
 
-Full-stack engineer who pairs production React/TypeScript front-ends with Python AI services in real shipping products. Currently building **UniOffer / ADMITOS**, an AI-guided admissions platform, at **Meta Solution Technologies**, after two years freelancing 20+ LLM-powered apps for paying clients on Claude, OpenAI and LangChain. **MSc Advanced Data Science & AI** at the University of Liverpool.
+Full-stack engineer who pairs production React/TypeScript front-ends with Python AI services in real shipping products. Two years freelancing 20+ LLM-powered apps for paying clients on Claude, OpenAI and LangChain. **MSc Advanced Data Science & AI** at the University of Liverpool.
 
 I write code that other people maintain, document the workflows so non-engineers can run them, and use AI tooling daily as part of the work rather than as a side project.
 
@@ -29,7 +29,7 @@ const vaibhav = {
   stack:      ["TypeScript", "Python", "React 19", "Next.js 15", "FastAPI"],
   data:       ["Postgres", "Supabase", "pgvector", "Redis", "BullMQ"],
   ai:         ["LangChain", "OpenAI", "Gemini", "Whisper STT", "MCP servers"],
-  shipping:   ["UniOffer / ADMITOS", "MCP Marketplace", "Scholar.AI v2"],
+  shipping:   ["MCP Marketplace", "Scholar.AI v2", "MedReviewAI"],
   open_to:    ["AI / Full-stack roles", "Graduate placement Jan 2027"],
 };
 ```
@@ -226,7 +226,6 @@ const vaibhav = {
 
 ### Currently
 
-- Building **UniOffer / ADMITOS** at Meta Solution Technologies. Next.js 15 + React 19 + Python LLM service over typed REST, Postgres + pgvector
 - Shipping **MCP Marketplace**. Public registry, auto-syncs daily · [mcp-hub-registry.vercel.app](https://mcp-hub-registry.vercel.app)
 - Iterating on **Scholar.AI v2**. Gemini PDF, side-panel chat, library mode
 - MSc Advanced Data Science & AI at University of Liverpool (Jan 2026 to Jan 2027)
