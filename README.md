@@ -41,6 +41,44 @@ const vaibhav = {
 <table>
 <tr>
 <td colspan="2" align="center">
+  <a href="https://github.com/vaibhav4046/apex">
+    <img src="https://raw.githubusercontent.com/vaibhav4046/apex/main/docs/banner.png" alt="apex — autonomous job application engine" width="100%" />
+  </a>
+  <h4>
+    <a href="https://github.com/vaibhav4046/apex">apex</a>
+    &nbsp;·&nbsp;
+    autonomous job application CLI
+  </h4>
+  <p align="left">
+    Opens Chrome, finds LinkedIn Easy Apply roles, generates a tailored 1-page resume per job, fills custom application questions with an LLM, and submits — autonomously, until LinkedIn's daily cap. Free LLMs only (Groq · Cerebras · Gemini · Ollama). Pause-on-stuck UX, application history, ATS-safe PDFs.
+  </p>
+  <p>
+    <code>TypeScript</code> <code>Playwright</code> <code>Puppeteer</code> <code>LLM</code> <code>CLI</code>
+  </p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+  <a href="https://github.com/vaibhav4046/praxon">
+    <img src="https://raw.githubusercontent.com/vaibhav4046/praxon/main/docs/banner.png" alt="Praxon — open-source AI agent platform" width="100%" />
+  </a>
+  <h4>
+    <a href="https://github.com/vaibhav4046/praxon">Praxon</a>
+    &nbsp;·&nbsp;
+    <a href="https://praxon-hazel.vercel.app">live</a>
+  </h4>
+  <p align="left">
+    Open-source AI agent platform. Multi-LLM router across free providers, MCP-native, local-first, cloud-deployable on Vercel + Supabase. Bring your own keys; ship agents in minutes. A Claude Cowork alternative built end-to-end on Next.js 16 + React 19.
+  </p>
+  <p>
+    <code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Supabase</code> <code>MCP</code> <code>AI Agents</code>
+  </p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
   <a href="https://github.com/vaibhav4046/mcp-marketplace">
     <img src="https://raw.githubusercontent.com/vaibhav4046/mcp-marketplace/main/docs/screenshots/hero.png" alt="MCP Marketplace" width="100%" />
   </a>
