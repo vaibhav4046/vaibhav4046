@@ -38,137 +38,81 @@ const vaibhav = {
 
 ### Featured projects
 
+<!-- Pinned: Qyntra (Wikithon 26 Finalist) gets the hero spot -->
+<a href="https://qyntra-app.vercel.app">
+  <img src="https://raw.githubusercontent.com/vaibhav4046/qyntra-app/master/screenshots/landing.png" alt="Qyntra — Wikithon 26 finalist · Personal Knowledge OS" width="100%" />
+</a>
+
+<p>
+  🏆 <strong><a href="https://github.com/vaibhav4046/qyntra-app">Qyntra</a></strong>
+  &nbsp;·&nbsp; <a href="https://qyntra-app.vercel.app">live</a>
+  &nbsp;·&nbsp; <strong>Wikithon '26 Finalist</strong>
+  <br/>
+  <sub>Your own private Wikipedia, compiled from your Notion, Drive, Gmail, GitHub and desktop files. Cited answers. 3D galaxy view. Groq Llama 3.3 70B. Built solo in a day with OpenCode Go + Claude Opus 4.7.</sub>
+</p>
+
+<!-- Collage: small thumbnails 3 per row, minimal copy -->
 <table>
 <tr>
-<td colspan="2" align="center">
-  <a href="https://qyntra-app.vercel.app">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/qyntra-app/master/screenshots/landing.png" alt="Qyntra — Wikithon 26 finalist · Personal Knowledge OS" width="100%" />
-  </a>
-  <h4>
-    🏆 <a href="https://github.com/vaibhav4046/qyntra-app">Qyntra</a>
-    &nbsp;·&nbsp;
-    <a href="https://qyntra-app.vercel.app">live</a>
-    &nbsp;·&nbsp;
-    <strong>Wikithon '26 Finalist</strong>
-  </h4>
-  <p align="left">
-    Your own private Wikipedia, compiled from your real files. Plug in Notion, Drive, Gmail, GitHub or a desktop folder; Qyntra ingests every supported file into one searchable corpus on Supabase, then Groq Llama 3.3 70B answers questions with numbered citations back to the exact source. A react-three-fiber 3D galaxy lays every file out as a star clustered by type. WEB mode falls back to live DuckDuckGo search. DEEP mode reframes the query as a three-step research pass. Built solo in about a day with OpenCode Go and Claude Opus 4.7 between exam-revision sessions.
-  </p>
-  <p>
-    <code>Next.js 16</code> <code>React 19</code> <code>Auth.js v5</code> <code>Supabase</code> <code>Groq Llama 3.3 70B</code> <code>react-three-fiber</code> <code>TypeScript</code>
-  </p>
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
+<td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/mcp-marketplace">
     <img src="https://raw.githubusercontent.com/vaibhav4046/mcp-marketplace/main/docs/screenshots/hero.png" alt="MCP Marketplace" width="100%" />
   </a>
-  <h4>
-    <a href="https://github.com/vaibhav4046/mcp-marketplace">MCP Marketplace</a>
-    &nbsp;·&nbsp;
-    <a href="https://mcp-hub-registry.vercel.app">live</a>
-  </h4>
-  <p align="left">
-    The registry of Model Context Protocol servers. Browse 800+ servers, copy install snippets for any MCP-aware client, ship your own. Auto-syncs from Glama + the official MCP repo daily. Next.js 15 RSC, Cmd-K palette, dynamic OG cards, full keyboard nav.
-  </p>
-  <p>
-    <code>Next.js 15</code> <code>TypeScript</code> <code>Tailwind</code> <code>MCP</code> <code>Vercel</code>
-  </p>
+  <sub><a href="https://github.com/vaibhav4046/mcp-marketplace"><b>MCP Marketplace</b></a> · <a href="https://mcp-hub-registry.vercel.app">live</a><br/>Registry of 800+ MCP servers.</sub>
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/Scholar.AI-Chrome-Extension/main/docs/screenshots/hero.png" alt="Scholar.AI Chrome Extension" width="100%" />
+    <img src="https://raw.githubusercontent.com/vaibhav4046/Scholar.AI-Chrome-Extension/main/docs/screenshots/hero.png" alt="Scholar.AI" width="100%" />
   </a>
-  <h4><a href="https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension">Scholar.AI</a></h4>
-  <p align="left">
-    AI research assistant in your browser. Summarizes any paper, chats with it, exports citations. Manifest V3, Gemini 2.5 native PDF input, side-panel mode, structured extractors for arXiv, PubMed, Nature, IEEE, bioRxiv.
-  </p>
-  <p>
-    <code>JavaScript</code> <code>Manifest V3</code> <code>Gemini API</code>
-  </p>
+  <sub><a href="https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension"><b>Scholar.AI</b></a><br/>AI paper assistant. Chrome MV3.</sub>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/MedReviewAI">
     <img src="https://raw.githubusercontent.com/vaibhav4046/MedReviewAI/main/docs/screenshots/hero.png" alt="MedReviewAI" width="100%" />
   </a>
-  <h4>
-    <a href="https://github.com/vaibhav4046/MedReviewAI">MedReviewAI</a>
-    &nbsp;·&nbsp;
-    <a href="https://medai-deploy.vercel.app">live</a>
-  </h4>
-  <p align="left">
-    Extract structured insights from medical research papers in seconds. PICO frame, confidence scoring, multi-source search across PubMed + bioRxiv + medRxiv. Built for clinicians and researchers who need answers, not abstracts.
-  </p>
-  <p>
-    <code>Next.js</code> <code>OpenAI</code> <code>PubMed API</code>
-  </p>
+  <sub><a href="https://github.com/vaibhav4046/MedReviewAI"><b>MedReviewAI</b></a> · <a href="https://medai-deploy.vercel.app">live</a><br/>PICO extraction across PubMed.</sub>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/cogniloop">
     <img src="https://raw.githubusercontent.com/vaibhav4046/cogniloop/master/docs/screenshots/hero.png" alt="CogniLoop" width="100%" />
   </a>
-  <h4>
-    <a href="https://github.com/vaibhav4046/cogniloop">CogniLoop</a>
-    &nbsp;·&nbsp;
-    <a href="https://cogniloop-vaibhav4046s-projects.vercel.app">live</a>
-  </h4>
-  <p align="left">
-    AI tutor that refuses to give answers. Socratic-method LLM agent that pushes students toward the solution with hints, not handouts. Conversation memory, hint escalation, topic tracking.
-  </p>
-  <p>
-    <code>Next.js</code> <code>OpenAI</code> <code>Vercel AI SDK</code>
-  </p>
+  <sub><a href="https://github.com/vaibhav4046/cogniloop"><b>CogniLoop</b></a> · <a href="https://cogniloop-vaibhav4046s-projects.vercel.app">live</a><br/>Socratic AI tutor. Hints, not answers.</sub>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/Scoping_Review_RAG_Pipeline">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/Scoping_Review_RAG_Pipeline/master/docs/screenshots/hero.png" alt="Scoping Review RAG Pipeline" width="100%" />
+    <img src="https://raw.githubusercontent.com/vaibhav4046/Scoping_Review_RAG_Pipeline/master/docs/screenshots/hero.png" alt="Scoping Review RAG" width="100%" />
   </a>
-  <h4><a href="https://github.com/vaibhav4046/Scoping_Review_RAG_Pipeline">Scoping Review RAG</a></h4>
-  <p align="left">
-    Production literature-review pipeline. LangChain chunking, embedding, retrieval and synthesis over thousands of academic papers. Built for systematic reviews at scale, not toy demos.
-  </p>
-  <p>
-    <code>Python</code> <code>LangChain</code> <code>OpenAI</code> <code>Vector DB</code>
-  </p>
+  <sub><a href="https://github.com/vaibhav4046/Scoping_Review_RAG_Pipeline"><b>Scoping Review RAG</b></a><br/>LangChain pipeline for systematic reviews.</sub>
+</td>
+<td width="33%" valign="top" align="center">
+  <a href="https://github.com/vaibhav4046/edgebench-local-guardrails">
+    <img src="https://raw.githubusercontent.com/vaibhav4046/edgebench-local-guardrails/master/docs/screenshots/hero.png" alt="EdgeBench" width="100%" />
+  </a>
+  <sub><a href="https://github.com/vaibhav4046/edgebench-local-guardrails"><b>EdgeBench</b></a><br/>Local Ollama LLM benchmark + guardrails.</sub>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/vaibhav4046/edgebench-local-guardrails">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/edgebench-local-guardrails/master/docs/screenshots/hero.png" alt="EdgeBench Local Guardrails" width="100%" />
-  </a>
-  <h4><a href="https://github.com/vaibhav4046/edgebench-local-guardrails">EdgeBench</a></h4>
-  <p align="left">
-    Offline benchmark suite for local Ollama LLMs on Windows. Per-model latency, JSON-schema output guardrails, comparative reports. Local-first. No cloud calls, no telemetry, your hardware your numbers.
-  </p>
-  <p>
-    <code>Python</code> <code>Ollama</code> <code>Pydantic</code> <code>JSON Schema</code>
-  </p>
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/vaibhav-portfolio">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav-portfolio/main/docs/screenshots/hero.png" alt="Personal Portfolio" width="100%" />
+    <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav-portfolio/main/docs/screenshots/hero.png" alt="Portfolio" width="100%" />
   </a>
-  <h4>
-    <a href="https://github.com/vaibhav4046/vaibhav-portfolio">Portfolio</a>
-    &nbsp;·&nbsp;
-    <a href="https://vaibhavlalwani.vercel.app">live</a>
-  </h4>
-  <p align="left">
-    Personal portfolio site. Hand-coded layout with smooth scroll, glass-morphism cards, dark/light theming, responsive across breakpoints. Showcases case studies, contact, current writing.
-  </p>
-  <p>
-    <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Vercel</code>
-  </p>
+  <sub><a href="https://github.com/vaibhav4046/vaibhav-portfolio"><b>Portfolio</b></a> · <a href="https://vaibhavlalwani.vercel.app">live</a><br/>Hand-coded personal site.</sub>
+</td>
+<td width="33%" valign="top" align="center">
+  <a href="https://github.com/vaibhav4046/TrustVault">
+    <img src="https://raw.githubusercontent.com/vaibhav4046/TrustVault/main/docs/screenshots/hero.png" alt="TrustVault" width="100%" />
+  </a>
+  <sub><a href="https://github.com/vaibhav4046/TrustVault"><b>TrustVault</b></a><br/>Secrets manager for AI agents.</sub>
+</td>
+<td width="33%" valign="top" align="center">
+  <a href="https://github.com/vaibhav4046?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav4046&repo=qyntra-app&theme=github_dark&hide_border=true" alt="See all repositories" width="100%" />
+  </a>
+  <sub><a href="https://github.com/vaibhav4046?tab=repositories"><b>View all repos →</b></a><br/>Everything else lives here.</sub>
 </td>
 </tr>
 </table>
