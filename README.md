@@ -103,14 +103,14 @@ const vaibhav = {
   <sub><a href="https://github.com/vaibhav4046/vaibhav-portfolio"><b>Portfolio</b></a> · <a href="https://vaibhavlalwani.vercel.app">live</a><br/>Hand-coded personal site.</sub>
 </td>
 <td width="33%" valign="top" align="center">
-  <a href="https://github.com/vaibhav4046/TrustVault">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/TrustVault/main/docs/screenshots/hero.png" alt="TrustVault" width="100%" />
+  <a href="https://github.com/vaibhav4046/qyntra-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav4046&repo=qyntra-app&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Qyntra repo card" width="100%" />
   </a>
-  <sub><a href="https://github.com/vaibhav4046/TrustVault"><b>TrustVault</b></a><br/>Secrets manager for AI agents.</sub>
+  <sub><a href="https://github.com/vaibhav4046/qyntra-app"><b>Qyntra repo</b></a><br/>Source · stars · activity.</sub>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav4046&repo=qyntra-app&theme=github_dark&hide_border=true" alt="See all repositories" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=vaibhav4046&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub stats" width="100%" />
   </a>
   <sub><a href="https://github.com/vaibhav4046?tab=repositories"><b>View all repos →</b></a><br/>Everything else lives here.</sub>
 </td>
