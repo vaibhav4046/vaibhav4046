@@ -103,16 +103,16 @@ const vaibhav = {
   <sub><a href="https://github.com/vaibhav4046/vaibhav-portfolio"><b>Portfolio</b></a> · <a href="https://vaibhavlalwani.vercel.app">live</a><br/>Hand-coded personal site.</sub>
 </td>
 <td width="33%" valign="top" align="center">
-  <a href="https://github.com/vaibhav4046/qyntra-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhav4046&repo=qyntra-app&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Qyntra repo card" width="100%" />
+  <a href="https://github.com/vaibhav4046/antivibe">
+    <img src="https://raw.githubusercontent.com/vaibhav4046/antivibe/main/docs/screenshots/hero.png" alt="Antivibe" width="100%" />
   </a>
-  <sub><a href="https://github.com/vaibhav4046/qyntra-app"><b>Qyntra repo</b></a><br/>Source · stars · activity.</sub>
+  <sub><a href="https://github.com/vaibhav4046/antivibe"><b>Antivibe</b></a><br/>Claude Code skill. Learn what AI writes.</sub>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/?username=vaibhav4046&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub stats" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vaibhav4046&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=3&row=2" alt="GitHub trophies" width="100%" />
   </a>
-  <sub><a href="https://github.com/vaibhav4046?tab=repositories"><b>View all repos →</b></a><br/>Everything else lives here.</sub>
+  <sub><a href="https://github.com/vaibhav4046?tab=repositories"><b>View all repos →</b></a><br/>20+ public projects.</sub>
 </td>
 </tr>
 </table>
