@@ -40,7 +40,7 @@ const vaibhav = {
 
 <!-- Pinned: Qyntra (Wikithon 26 Finalist) gets the hero spot -->
 <a href="https://qyntra-app.vercel.app">
-  <img src="https://raw.githubusercontent.com/vaibhav4046/qyntra-app/master/screenshots/landing.png" alt="Qyntra — Wikithon 26 finalist · Personal Knowledge OS" width="100%" />
+  <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/qyntra.png" alt="Qyntra — Wikithon 26 finalist · Personal Knowledge OS" width="100%" />
 </a>
 
 <p>
@@ -56,19 +56,19 @@ const vaibhav = {
 <tr>
 <td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/mcp-marketplace">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/mcp-marketplace/main/docs/screenshots/hero.png" alt="MCP Marketplace" width="100%" />
+    <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/mcpmarketplace.png" alt="MCP Marketplace" width="100%" />
   </a>
   <sub><a href="https://github.com/vaibhav4046/mcp-marketplace"><b>MCP Marketplace</b></a> · <a href="https://mcp-hub-registry.vercel.app">live</a><br/>Registry of 800+ MCP servers.</sub>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/Scholar.AI-Chrome-Extension/main/docs/screenshots/hero.png" alt="Scholar.AI" width="100%" />
+    <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/scholarai.png" alt="Scholar.AI" width="100%" />
   </a>
   <sub><a href="https://github.com/vaibhav4046/Scholar.AI-Chrome-Extension"><b>Scholar.AI</b></a><br/>AI paper assistant. Chrome MV3.</sub>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/MedReviewAI">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/MedReviewAI/main/docs/screenshots/hero.png" alt="MedReviewAI" width="100%" />
+    <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/medreview.png" alt="MedReviewAI" width="100%" />
   </a>
   <sub><a href="https://github.com/vaibhav4046/MedReviewAI"><b>MedReviewAI</b></a> · <a href="https://medai-deploy.vercel.app">live</a><br/>PICO extraction across PubMed.</sub>
 </td>
@@ -77,19 +77,19 @@ const vaibhav = {
 <tr>
 <td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/cogniloop">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/cogniloop/master/docs/screenshots/hero.png" alt="CogniLoop" width="100%" />
+    <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/cogniloop.png" alt="CogniLoop" width="100%" />
   </a>
   <sub><a href="https://github.com/vaibhav4046/cogniloop"><b>CogniLoop</b></a> · <a href="https://cogniloop-vaibhav4046s-projects.vercel.app">live</a><br/>Socratic AI tutor. Hints, not answers.</sub>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/Scoping_Review_RAG_Pipeline">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/Scoping_Review_RAG_Pipeline/master/docs/screenshots/hero.png" alt="Scoping Review RAG" width="100%" />
+    <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/scopingrag.png" alt="Scoping Review RAG" width="100%" />
   </a>
   <sub><a href="https://github.com/vaibhav4046/Scoping_Review_RAG_Pipeline"><b>Scoping Review RAG</b></a><br/>LangChain pipeline for systematic reviews.</sub>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/edgebench-local-guardrails">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/edgebench-local-guardrails/master/docs/screenshots/hero.png" alt="EdgeBench" width="100%" />
+    <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/edgebench.png" alt="EdgeBench" width="100%" />
   </a>
   <sub><a href="https://github.com/vaibhav4046/edgebench-local-guardrails"><b>EdgeBench</b></a><br/>Local Ollama LLM benchmark + guardrails.</sub>
 </td>
@@ -98,13 +98,13 @@ const vaibhav = {
 <tr>
 <td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/vaibhav-portfolio">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav-portfolio/main/docs/screenshots/hero.png" alt="Portfolio" width="100%" />
+    <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/portfolio.png" alt="Portfolio" width="100%" />
   </a>
   <sub><a href="https://github.com/vaibhav4046/vaibhav-portfolio"><b>Portfolio</b></a> · <a href="https://vaibhavlalwani.vercel.app">live</a><br/>Hand-coded personal site.</sub>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://github.com/vaibhav4046/antivibe">
-    <img src="https://raw.githubusercontent.com/vaibhav4046/antivibe/main/docs/screenshots/hero.png" alt="Antivibe" width="100%" />
+    <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/antivibe.png" alt="Antivibe" width="100%" />
   </a>
   <sub><a href="https://github.com/vaibhav4046/antivibe"><b>Antivibe</b></a><br/>Claude Code skill. Learn what AI writes.</sub>
 </td>
