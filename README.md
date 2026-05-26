@@ -29,7 +29,7 @@ const vaibhav = {
   stack:      ["TypeScript", "Python", "React 19", "Next.js 15", "FastAPI"],
   data:       ["Postgres", "Supabase", "pgvector", "Redis", "BullMQ"],
   ai:         ["LangChain", "OpenAI", "Gemini", "Whisper STT", "MCP servers"],
-  shipping:   ["Qyntra (Wikithon '26 Finalist)", "MCP Marketplace", "Scholar.AI v2", "MedReviewAI"],
+  shipping:   ["DelOS (Agents Under Pressure '26)", "Qyntra (Wikithon '26 Finalist)", "MCP Marketplace", "Scholar.AI v2", "MedReviewAI"],
   open_to:    ["AI / Full-stack roles", "Graduate placement Jan 2027"],
 };
 ```
@@ -49,6 +49,21 @@ const vaibhav = {
   &nbsp;·&nbsp; <strong>Wikithon '26 Finalist</strong>
   <br/>
   <sub>Your own private Wikipedia, compiled from your Notion, Drive, Gmail, GitHub and desktop files. Cited answers. 3D galaxy view. Groq Llama 3.3 70B. Built solo in a day with OpenCode Go + Claude Opus 4.7.</sub>
+</p>
+
+<br/>
+
+<!-- 2nd hero: DelOS — Agents Under Pressure '26 hackathon entry -->
+<a href="https://delrio.vercel.app">
+  <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/delos.png" alt="DelOS — browser-OS for multi-agent work · Agents Under Pressure 26" width="100%" />
+</a>
+
+<p>
+  🛠️ <strong><a href="https://github.com/vaibhav4046/delos">DelOS</a></strong>
+  &nbsp;·&nbsp; <a href="https://delrio.vercel.app">live</a>
+  &nbsp;·&nbsp; <strong>Agents Under Pressure '26 · AIValley × HydraDB</strong>
+  <br/>
+  <sub>Browser-OS where multi-agent orchestration is wired in by default. xterm.js Agent Fleet running parallel agents on isolated HydraDB tenant subnamespaces (serverless git-worktree). Force-directed memory graph over HydraDB graph+vector. 6-provider LLM cascade (Groq + Mistral + Gemini + NIM + Cerebras + Bytez + OpenRouter). 79 endpoints. 14/14 regression + 62/62 brutal probe pass. Built solo across a 48h sprint.</sub>
 </p>
 
 <!-- Collage: small thumbnails 3 per row, minimal copy -->
@@ -191,6 +206,7 @@ const vaibhav = {
 
 ### Currently
 
+- 🛠️ **Agents Under Pressure '26** — shipped [DelOS](https://delrio.vercel.app) · browser-OS for multi-agent work · xterm Agent Fleet · HydraDB graph+vector · 6-provider cascade
 - 🏆 **Wikithon '26 Finalist** with [Qyntra](https://qyntra-app.vercel.app) · personal Wikipedia for your files
 - Shipping **MCP Marketplace**. Public registry, auto-syncs daily · [mcp-hub-registry.vercel.app](https://mcp-hub-registry.vercel.app)
 - Iterating on **Scholar.AI v2**. Gemini PDF, side-panel chat, library mode
