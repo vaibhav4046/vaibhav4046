@@ -29,7 +29,7 @@ const vaibhav = {
   stack:      ["TypeScript", "Python", "React 19", "Next.js 15", "FastAPI"],
   data:       ["Postgres", "Supabase", "pgvector", "Redis", "BullMQ"],
   ai:         ["LangChain", "OpenAI", "Gemini", "Whisper STT", "MCP servers"],
-  shipping:   ["DelOS (Agents Under Pressure '26)", "Qyntra (Wikithon '26 Finalist)", "MCP Marketplace", "Scholar.AI v2", "MedReviewAI"],
+  shipping:   ["DRIP (AI sneaker stylist · multi-agent AI)", "DelOS (Agents Under Pressure '26)", "Qyntra (Wikithon '26 Finalist)", "MCP Marketplace", "Scholar.AI v2"],
   open_to:    ["AI / Full-stack roles", "Graduate placement Jan 2027"],
 };
 ```
@@ -37,6 +37,21 @@ const vaibhav = {
 <br/>
 
 ### Featured projects
+
+<!-- Hero: DRIP — AI sneaker stylist (multi-agent AI, live StockX data, camera scan) -->
+<a href="https://drip-two-rho.vercel.app">
+  <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/drip.png" alt="DRIP — AI sneaker stylist · multi-agent AI · live StockX prices · camera color-scan" width="100%" />
+</a>
+
+<p>
+  👟 <strong><a href="https://github.com/vaibhav4046/drip-ai-sneaker-stylist">DRIP — AI Sneaker Stylist</a></strong>
+  &nbsp;·&nbsp; <a href="https://drip-two-rho.vercel.app">live</a>
+  &nbsp;·&nbsp; <strong>Multi-agent AI · Live StockX data</strong>
+  <br/>
+  <sub>Builds outfits around your sneaker collection. A Stylist agent drafts, a Critic agent refines — honest weather/material advice (it tells you <em>not</em> to wear suede in the rain). Live StockX resale prices via KicksDB, camera color-scan with auto-capture, a real recommendation engine, live Reddit/YouTube/news feed. React 19 · Vercel serverless · NVIDIA / OpenRouter / HuggingFace.</sub>
+</p>
+
+<br/>
 
 <!-- Pinned: Qyntra (Wikithon 26 Finalist) gets the hero spot -->
 <a href="https://qyntra-app.vercel.app">
