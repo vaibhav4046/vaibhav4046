@@ -68,7 +68,22 @@ const vaibhav = {
 
 <br/>
 
-<!-- 2nd hero: DelOS — Agents Under Pressure '26 hackathon entry -->
+<!-- 3rd hero: RecallOps Cortex · Google Cloud Rapid Agent Hackathon (Fivetran track) -->
+<a href="https://recall-ops.vercel.app">
+  <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/recallops.png" alt="RecallOps Cortex · recall-containment command center · Google Cloud Rapid Agent Hackathon" width="100%" />
+</a>
+
+<p>
+  🛡️ <strong><a href="https://github.com/vaibhav4046/RecallOps">RecallOps Cortex</a></strong>
+  &nbsp;·&nbsp; <a href="https://recall-ops.vercel.app">live</a>
+  &nbsp;·&nbsp; <strong>Google Cloud Rapid Agent Hackathon · Fivetran track</strong>
+  <br/>
+  <sub>Turns a real openFDA food recall into a scoped blast radius across Fivetran-synced BigQuery ops data, has Gemini draft six containment actions (each citing its evidence), gates every action behind a human approval, and writes each step to a tamper-evident sha256 hash-chain audit log. FastAPI on Cloud Run, a 14-route command center, honest live vs fallback badging. <a href="https://github.com/vaibhav4046/RecallOps/blob/main/docs/RecallOps-Cortex-Whitepaper.pdf">Whitepaper</a>.</sub>
+</p>
+
+<br/>
+
+<!-- DelOS · Agents Under Pressure '26 hackathon entry -->
 <a href="https://delrio.vercel.app">
   <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/delos.png" alt="DelOS — browser-OS for multi-agent work · Agents Under Pressure 26" width="100%" />
 </a>
