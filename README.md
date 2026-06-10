@@ -242,6 +242,9 @@ const vaibhav = {
 - Iterating on **Scholar.AI v2**. Gemini PDF, side-panel chat, library mode
 - MSc Advanced Data Science & AI at University of Liverpool (Jan 2026 to Jan 2027)
 - Reading: agentic eval frameworks, prompt-cache patterns, MCP server design
+- Shipped **[Own Wiki (mnemosyne)](https://github.com/vaibhav4046/mnemosyne)**, a local-first knowledge OS in one portable Windows exe
+- **Top 3, Hack HydraDB security hackathon**, responsibly disclosed an authentication weakness, acknowledged by the maintainers
+- Published **NEXUS**, a preprint on cloud gaming latency, [Zenodo DOI](https://doi.org/10.5281/zenodo.20059414)
 
 <br/>
 
