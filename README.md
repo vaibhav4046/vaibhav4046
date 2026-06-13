@@ -68,7 +68,22 @@ const vaibhav = {
 
 <br/>
 
-<!-- 3rd hero: RecallOps Cortex · Google Cloud Rapid Agent Hackathon (Fivetran track) -->
+<!-- Recoup · Google Cloud Rapid Agent Hackathon (MongoDB track) -->
+<a href="https://recoup-agent-681822930558.us-central1.run.app">
+  <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/recoup.png" alt="Recoup · AI money-recovery agent · Google Cloud Rapid Agent Hackathon · MongoDB track" width="100%" />
+</a>
+
+<p>
+  💸 <strong><a href="https://github.com/vaibhav4046/recoup">Recoup</a></strong>
+  &nbsp;·&nbsp; <a href="https://recoup-agent-681822930558.us-central1.run.app">live</a>
+  &nbsp;·&nbsp; <strong>Google Cloud Rapid Agent Hackathon · MongoDB track</strong>
+  <br/>
+  <sub>Budgeting apps show where your money went. Recoup gets it back. One Google sign-in scans your real Gmail receipts read-only, then a fleet of agents grounds every claim in consumer-protection law via MongoDB Atlas Vector Search, drafts it with Gemini 3 through the Google ADK, runs an independent verifier, and stops at a human approval gate. One approval and a real Playwright browser walks the vendor cancellation portal and streams a live screenshot back. A Sentinel watches your drains on a schedule, and it searches 20,000 real California unclaimed-property records. Every step writes to a tamper-evident sha256 hash chain. <a href="https://www.loom.com/share/2ac5ffa761cb452ca807d8cb33df0592">Walkthrough</a>.</sub>
+</p>
+
+<br/>
+
+<!-- 4th hero: RecallOps Cortex · Google Cloud Rapid Agent Hackathon (Fivetran track) -->
 <a href="https://recall-ops.vercel.app">
   <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/recallops.png" alt="RecallOps Cortex · recall-containment command center · Google Cloud Rapid Agent Hackathon" width="100%" />
 </a>
