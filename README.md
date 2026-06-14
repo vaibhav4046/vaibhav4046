@@ -38,6 +38,20 @@ const vaibhav = {
 
 ### Featured projects
 
+<!-- Kodro · offline robot design and simulation studio (MSc dissertation) -->
+<a href="https://github.com/vaibhav4046/robolearn">
+  <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/kodro.png" alt="Kodro · offline robot design and simulation studio · Three.js · self-refining" width="100%" />
+</a>
+
+<p>
+  🤖 <strong><a href="https://github.com/vaibhav4046/robolearn">Kodro</a></strong>
+  &nbsp;·&nbsp; <strong>Offline robot design and simulation studio · MSc dissertation</strong>
+  <br/>
+  <sub>Design a robot, program it, watch it work, fully offline with no account and no cloud. Build a custom machine in the Robot Lab, program it in a Python subset, blocks, or with a local AI assistant (Ollama, with a rule based fallback), then validate it in a 3D world picked to fit it: a self driving car gets a City with looping traffic and a crossing, a home or arm robot gets a Room, a rover gets planetary terrain. Motion reads per type with weight transfer and suspension. A localStorage memory reflects on each run and keeps saved skills, so it refines from its own verified work without retraining any weights. Vendored React and Three.js, pre compiled offline. Verified: 21 of 21 interpreter QA and 851 engine tests at ~86% coverage.</sub>
+</p>
+
+<br/>
+
 <!-- Hero: DRIP — AI sneaker stylist (multi-agent AI, live StockX data, camera scan) -->
 <a href="https://drip-two-rho.vercel.app">
   <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/drip.png" alt="DRIP — AI sneaker stylist · multi-agent AI · live StockX prices · camera color-scan" width="100%" />
