@@ -82,6 +82,21 @@ const vaibhav = {
 
 <br/>
 
+<!-- Continuity · Agents You Love Hackathon (Best Use of Memory) -->
+<a href="https://continuity-six.vercel.app">
+  <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/continuity.png" alt="Continuity · self-evolving memory agent on HydraDB · Agents You Love Hackathon · Best Use of Memory" width="100%" />
+</a>
+
+<p>
+  🧠 <strong><a href="https://github.com/vaibhav4046/continuity">Continuity</a></strong>
+  &nbsp;·&nbsp; <a href="https://continuity-six.vercel.app">live</a>
+  &nbsp;·&nbsp; <strong>Agents You Love Hackathon · Best Use of Memory</strong>
+  <br/>
+  <sub>Most agents forget the moment a tab closes. Continuity remembers what matters, lets the rest decay, supersedes itself when you contradict yourself, and closes your open loops before you ask. HydraDB is the primary memory: every fact is a real write and every recall a real query, so your context survives a reload with nothing in localStorage. Say a doctor wants to prescribe amoxicillin and it recalls your stored penicillin allergy and warns you, the answer changing because of memory. One memory across a web app, an MCP server that follows you between Claude Code, Codex, Cursor and Gemini CLI, and a 24/7 daemon, with an execution log proving every HydraDB write and query.</sub>
+</p>
+
+<br/>
+
 <!-- Recoup · Google Cloud Rapid Agent Hackathon (MongoDB track) -->
 <a href="https://recoup-agent-681822930558.us-central1.run.app">
   <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/recoup.png" alt="Recoup · AI money-recovery agent · Google Cloud Rapid Agent Hackathon · MongoDB track" width="100%" />
