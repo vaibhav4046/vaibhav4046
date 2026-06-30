@@ -38,6 +38,17 @@ const vaibhav = {
 
 ### Featured projects
 
+<!-- HydraSentry · HydraDB Build Blitz Winner -->
+<p>
+  🏆 <strong><a href="https://github.com/vaibhav4046/hydrasentry">HydraSentry</a></strong>
+  &nbsp;·&nbsp; <a href="https://hydrasentry.vercel.app">live</a>
+  &nbsp;·&nbsp; <strong>HydraDB Build Blitz · Winner</strong>
+  <br/>
+  <sub>Graph-native memory-integrity layer for AI agents. One poisoned memory can silently override an agent's policy on every future run, invisible to prompt firewalls because the poison is in what the agent retrieves, not the prompt. HydraSentry replays the agent on clean vs poisoned context, traces the exact taint path through the real HydraDB query_paths graph, blocks the unsafe action via an MCP firewall before the agent acts, and seals a signed, offline-verifiable Memory Integrity Certificate. Multi-tenant, semantic paraphrase detection via embeddings, self-verifying against the OWASP Agentic Top 10. Live, no login.</sub>
+</p>
+
+<br/>
+
 <!-- Kodro · offline robot design and simulation studio (MSc dissertation) -->
 <a href="https://github.com/vaibhav4046/robolearn">
   <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/kodro.png" alt="Kodro · offline robot design and simulation studio · Three.js · self-refining" width="100%" />
