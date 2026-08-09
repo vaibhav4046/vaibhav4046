@@ -38,6 +38,20 @@ const vaibhav = {
 
 ### Featured projects
 
+<!-- QueueProof · evidence-backed cross-source retrieval workspace (HydraDB x Connectors Hackathon) -->
+<a href="https://queueproof.vercel.app">
+  <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/queueproof.png" alt="QueueProof · evidence-backed cross-source retrieval workspace · HydraDB x Connectors Hackathon" width="100%" />
+</a>
+
+<p>
+  🧾 <strong><a href="https://queueproof.vercel.app">QueueProof</a></strong>
+  &nbsp;·&nbsp; <strong>Evidence-backed cross-source retrieval · HydraDB x Connectors Hackathon</strong>
+  <br/>
+  <sub>Ask one plain-language question across GitHub, Linear, Slack, Gmail and documents, and get a concise answer whose every claim opens to the original source record. Built on HydraDB's cross-source evidence layer: connectors are verified against attributable records rather than saved credentials, evidence merges without collapsing distinct entities, and a degraded connector or source contradiction stays visible instead of being smoothed over. Compiles into a deterministic priority queue and exposes the same read contract through MCP. Writes stay behind an explicit approval boundary and only count as executed once a provider response ID is stored.</sub>
+</p>
+
+<br/>
+
 <!-- HydraSentry · HydraDB Build Blitz Winner -->
 <p>
   🏆 <strong><a href="https://github.com/vaibhav4046/hydrasentry">HydraSentry</a></strong>
