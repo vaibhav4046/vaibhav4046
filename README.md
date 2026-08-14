@@ -29,7 +29,7 @@ const vaibhav = {
   stack:      ["TypeScript", "Python", "React 19", "Next.js 15", "FastAPI"],
   data:       ["Postgres", "Supabase", "pgvector", "Redis", "BullMQ"],
   ai:         ["LangChain", "OpenAI", "Gemini", "Whisper STT", "MCP servers"],
-  shipping:   ["DRIP (AI sneaker stylist · multi-agent AI)", "DelOS (Agents Under Pressure '26)", "Qyntra (Wikithon '26 Finalist)", "MCP Marketplace", "Scholar.AI v2"],
+  shipping:   ["QueueProof (HydraDB x Connectors Hackathon Winner)", "DRIP (AI sneaker stylist · multi-agent AI)", "DelOS (Agents Under Pressure '26)", "Qyntra (Wikithon '26 Finalist)", "MCP Marketplace"],
   open_to:    ["AI / Full-stack roles", "Graduate placement Jan 2027"],
 };
 ```
@@ -38,14 +38,15 @@ const vaibhav = {
 
 ### Featured projects
 
-<!-- QueueProof · evidence-backed cross-source retrieval workspace (HydraDB x Connectors Hackathon) -->
+<!-- QueueProof · HydraDB x Connectors Hackathon Winner -->
 <a href="https://queueproof.vercel.app">
-  <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/queueproof.png" alt="QueueProof · evidence-backed cross-source retrieval workspace · HydraDB x Connectors Hackathon" width="100%" />
+  <img src="https://raw.githubusercontent.com/vaibhav4046/vaibhav4046/main/images/queueproof.png" alt="QueueProof · evidence-backed cross-source retrieval workspace · HydraDB x Connectors Hackathon · Winner" width="100%" />
 </a>
 
 <p>
-  🧾 <strong><a href="https://queueproof.vercel.app">QueueProof</a></strong>
-  &nbsp;·&nbsp; <strong>Evidence-backed cross-source retrieval · HydraDB x Connectors Hackathon</strong>
+  🏆 <strong><a href="https://github.com/vaibhav4046/queueproof">QueueProof</a></strong>
+  &nbsp;·&nbsp; <a href="https://queueproof.vercel.app">live</a>
+  &nbsp;·&nbsp; <strong>HydraDB x Connectors Hackathon · Winner</strong>
   <br/>
   <sub>Ask one plain-language question across GitHub, Linear, Slack, Gmail and documents, and get a concise answer whose every claim opens to the original source record. Built on HydraDB's cross-source evidence layer: connectors are verified against attributable records rather than saved credentials, evidence merges without collapsing distinct entities, and a degraded connector or source contradiction stays visible instead of being smoothed over. Compiles into a deterministic priority queue and exposes the same read contract through MCP. Writes stay behind an explicit approval boundary and only count as executed once a provider response ID is stored.</sub>
 </p>
@@ -305,6 +306,7 @@ const vaibhav = {
 
 ### Currently
 
+- 🏆 **Winner, HydraDB x Connectors Hackathon** with [QueueProof](https://queueproof.vercel.app) · one question across GitHub, Linear, Slack, Gmail and docs, every claim opening to its source record
 - 🛠️ **Agents Under Pressure '26** — shipped [DelOS](https://delrio.vercel.app) · browser-OS for multi-agent work · xterm Agent Fleet · HydraDB graph+vector · 6-provider cascade
 - 🏆 **Wikithon '26 Finalist** with [Qyntra](https://qyntra-app.vercel.app) · personal Wikipedia for your files
 - Shipping **MCP Marketplace**. Public registry, auto-syncs daily · [mcp-hub-registry.vercel.app](https://mcp-hub-registry.vercel.app)
