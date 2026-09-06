@@ -12,6 +12,18 @@
   <a href="mailto:vaibhavlalwani26969@gmail.com"><img src="https://img.shields.io/badge/Email-3F4147?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<a href="https://github.com/vaibhav4046/leverage">
+  <img src="https://raw.githubusercontent.com/vaibhav4046/leverage/master/docs/shots/banner.png" alt="Leverage: the intelligence resource manager under the model you already pay for" width="100%">
+</a>
+
+## Newest: Leverage
+
+**One frontier brain, an elastic workforce.**
+
+[Leverage](https://github.com/vaibhav4046/leverage) sits under the model you already pay for. A repository and a goal become a task graph; an auction hires local, free or subscription models per task; a failed worker leaves a compact checkpoint that a replacement resumes; and nothing counts until the repository's own tests are green. Exposed over MCP to Claude, Codex or Cursor. In one recorded mission it built five modules of a billing SaaS with five hired workers in 42 seconds, whole suite green, paid inference zero.
+
+[Live site and playground](https://useleverage.vercel.app) · [Source](https://github.com/vaibhav4046/leverage) · [Technical report](https://github.com/vaibhav4046/leverage/blob/master/docs/TECHNICAL_REPORT.md) · Built for the RocketRide x SCU Buildathon
+
 <a href="https://github.com/vaibhav4046/lacuna">
   <img src="https://raw.githubusercontent.com/vaibhav4046/lacuna/main/web/public/social.png" alt="Lacuna — temporal, provenance-first memory for AI agents" width="100%">
 </a>
@@ -30,6 +42,7 @@ It projects the same evidence contract through a public web workspace, CLI and M
 
 | Project | What it demonstrates | Links |
 | --- | --- | --- |
+| **Leverage** | An intelligence resource manager for MCP hosts: per-task model auctions, cognitive handoff checkpoints, test-verified proofs | [Source](https://github.com/vaibhav4046/leverage) · [Live](https://useleverage.vercel.app) |
 | **Lacuna** | Temporal memory, exact provenance, contradiction handling and explicit abstention across web, CLI and MCP | [Source](https://github.com/vaibhav4046/lacuna) · [Live](https://lacuna-five.vercel.app/explore) |
 | **QueueProof** | Cross-source work retrieval with claim-level citations, deterministic prioritisation and approval-gated writes | [Source](https://github.com/vaibhav4046/queueproof) · [Live](https://queueproof.vercel.app) |
 | **Kodro** | Offline robot coding and visual kinematic simulation for pupils, teachers and beginners, with no account required for core paths | [Source](https://github.com/vaibhav4046/kodro) · [Live](https://vaibhav4046.github.io/kodro/) |
