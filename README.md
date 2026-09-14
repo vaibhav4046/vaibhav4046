@@ -1,6 +1,6 @@
 <h1 align="center">Vaibhav Lalwani</h1>
 
-<p align="center"><strong>AI/ML engineer building agent memory, retrieval and evaluation systems.</strong></p>
+<p align="center"><strong>AI systems engineer building agents that can prove what they did.</strong></p>
 
 <p align="center">
   Liverpool, UK · MSc Advanced Data Science &amp; Artificial Intelligence · University of Liverpool
@@ -12,45 +12,55 @@
   <a href="mailto:vaibhavlalwani26969@gmail.com"><img src="https://img.shields.io/badge/Email-3F4147?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<a href="https://github.com/vaibhav4046/leverage">
-  <img src="https://raw.githubusercontent.com/vaibhav4046/leverage/master/docs/shots/banner.png" alt="Leverage: the intelligence resource manager under the model you already pay for" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/2026-4×%20Hackathon%20Winner-ff6a1a?style=for-the-badge" alt="4x hackathon winner in 2026">
+  <img src="https://img.shields.io/badge/SharedOS-Judges'%20Pick-111111?style=for-the-badge" alt="SharedOS Judges' Pick">
+</p>
+
+<a href="https://yuzu-market.vercel.app/">
+  <img src="https://raw.githubusercontent.com/vaibhav4046/yuzu/master/public/art/problem-with-strangers.webp" alt="Yuzu: the market where agents hire agents" width="100%">
 </a>
 
-## Newest: Leverage
+## Newest flagship: Yuzu 🍋
 
-**One frontier brain, an elastic workforce.**
+**The market where agents hire agents.**
 
-[Leverage](https://github.com/vaibhav4046/leverage) sits under the model you already pay for. A repository and a goal become a task graph; an auction hires local, free or subscription models per task; a failed worker leaves a compact checkpoint that a replacement resumes; and nothing counts until the repository's own tests are green. Exposed over MCP to Claude, Codex or Cursor. In one recorded mission it built five modules of a billing SaaS with five hired workers in 42 seconds, whole suite green, paid inference zero.
+[Yuzu](https://yuzu-market.vercel.app/) takes a goal and a budget and runs the deal end to end: **discover → bid → prove → negotiate → contract → execute → verify → settle**. Seller claims are treated as evidence to test, permissions are scoped before work begins, and every completed deal can return a signed receipt describing what happened.
 
-[Live site and playground](https://useleverage.vercel.app) · [Source](https://github.com/vaibhav4046/leverage) · [Technical report](https://github.com/vaibhav4046/leverage/blob/master/docs/TECHNICAL_REPORT.md) · Built for the RocketRide x SCU Buildathon
+**🏆 SharedOS Hackathon · Judges’ Pick · 2026**
 
-<a href="https://github.com/vaibhav4046/lacuna">
-  <img src="https://raw.githubusercontent.com/vaibhav4046/lacuna/main/web/public/social.png" alt="Lacuna — temporal, provenance-first memory for AI agents" width="100%">
-</a>
+[Live market](https://yuzu-market.vercel.app/) · [Source](https://github.com/vaibhav4046/yuzu) · [Grant map](https://yuzu-market.vercel.app/api/grants?agent=f0cf3a2d-f961-4d9e-81bc-a19bab2ad61b) · [Manifest](https://yuzu-market.vercel.app/api/manifest)
 
-## Flagship: Lacuna
+## 2026 winner ledger
 
-**Memory that knows what changed, what remains true, and what was never known.**
+| Result | Project | Event | What was built |
+| --- | --- | --- | --- |
+| **🏆 Judges’ Pick** | **Yuzu** | SharedOS Hackathon | Agent-to-agent market with proof, scoped authority and settlement receipts |
+| **🏆 Winner** | **Leverage** | RocketRide × SCU Buildathon | Model workforce manager with per-task auctions, test verification and cognitive handoff |
+| **🏆 Winner** | **QueueProof** | HydraDB × Connectors Hackathon | Evidence-backed cross-source retrieval with claim-level provenance |
+| **🏆 Winner** | **HydraSentry** | HydraDB Build Blitz | Memory-integrity firewall that blocks poisoned context before an agent acts |
 
-[Lacuna](https://github.com/vaibhav4046/lacuna) is a temporal, provenance-first memory layer for AI agents, built on HydraDB. It keeps every claim tied to the sentence it came from, preserves corrections instead of silently overwriting history, exposes unresolved conflicts, and abstains when the evidence cannot support an answer.
+No scoreboard inflation here: finalist and participation results stay separate from wins.
 
-It projects the same evidence contract through a public web workspace, CLI and MCP surface.
-
-[Try the live workspace](https://lacuna-five.vercel.app/explore) · [Source](https://github.com/vaibhav4046/lacuna) · [Evidence](https://github.com/vaibhav4046/lacuna/blob/main/docs/EVIDENCE_INDEX.md) · [MCP](https://github.com/vaibhav4046/lacuna/blob/main/docs/MCP.md)
-
-## Selected systems
+## Newest systems
 
 | Project | What it demonstrates | Links |
 | --- | --- | --- |
-| **Leverage** | An intelligence resource manager for MCP hosts: per-task model auctions, cognitive handoff checkpoints, test-verified proofs | [Source](https://github.com/vaibhav4046/leverage) · [Live](https://useleverage.vercel.app) |
-| **Lacuna** | Temporal memory, exact provenance, contradiction handling and explicit abstention across web, CLI and MCP | [Source](https://github.com/vaibhav4046/lacuna) · [Live](https://lacuna-five.vercel.app/explore) |
-| **QueueProof** | Cross-source work retrieval with claim-level citations, deterministic prioritisation and approval-gated writes | [Source](https://github.com/vaibhav4046/queueproof) · [Live](https://queueproof.vercel.app) |
-| **Kodro** | Offline robot coding and visual kinematic simulation for pupils, teachers and beginners, with no account required for core paths | [Source](https://github.com/vaibhav4046/kodro) · [Live](https://vaibhav4046.github.io/kodro/) |
-| **BhashaFix** | A localisation verification harness covering linguistic, technical, visual and accessibility failures across web, CLI, MCP and CI | [Source](https://github.com/vaibhav4046/bhashafix) · [Live](https://bhashafix.vercel.app) |
+| **Yuzu** | Agents discovering, proving, contracting, executing and settling work with signed receipts | [Live](https://yuzu-market.vercel.app/) · [Source](https://github.com/vaibhav4046/yuzu) |
+| **Leverage** | Per-task model auctions, zero-budget routing, cognitive handoffs and repository-test verification | [Live](https://useleverage.vercel.app) · [Source](https://github.com/vaibhav4046/leverage) |
+| **VYREALM** | Local-first creator studio for editable video projects, real exports, captions, narration and optional MCP/local-model workflows | [Source](https://github.com/vaibhav4046/VYREALM) |
+| **ReqKeeper** | Exactly-once settlement for Request Network obligations through KeeperHub, including concurrent-worker and live-chain evidence | [Live](https://reqkeeper.vercel.app) · [Source](https://github.com/vaibhav4046/reqkeeper) |
+| **VIVA** | Voice-first active recall using AssemblyAI Dictation + live streaming with source-grounded feedback | [Live](https://viva-five-murex.vercel.app) · [Source](https://github.com/vaibhav4046/viva) |
+| **Lacuna** | Temporal memory, exact provenance, contradiction handling and explicit abstention across web, CLI and MCP | [Live](https://lacuna-five.vercel.app/explore) · [Source](https://github.com/vaibhav4046/lacuna) |
+| **QueueProof** | Cross-source work retrieval with claim-level citations and inspectable evidence | [Live](https://queueproof.vercel.app) · [Source](https://github.com/vaibhav4046/queueproof) |
+| **HydraSentry** | Agent memory integrity, poisoned-context detection and signed integrity evidence | [Live](https://hydrasentry.vercel.app) · [Source](https://github.com/vaibhav4046/hydrasentry) |
+| **Kodro** | Offline robot coding and visual kinematic simulation for pupils, teachers and beginners | [Live](https://vaibhav4046.github.io/kodro/) · [Source](https://github.com/vaibhav4046/kodro) |
+| **Cherry** | User-owned skills, memory, missions and verification for AI agents | [Live](https://cherry-wine.vercel.app) · [Source](https://github.com/vaibhav4046/cherry) |
 
 ## What I build
 
-- agent memory, context retrieval and evidence graphs;
+- agent markets, orchestration and tool-using workflows;
+- memory, retrieval, provenance and evidence graphs;
 - evaluation systems that expose failures instead of hiding them;
 - MCP servers, CLIs, connectors and cross-surface contracts;
 - full-stack AI products with TypeScript, Python and durable data stores;
@@ -69,13 +79,15 @@ Delivery        GitHub Actions · Vercel · AWS · GCP · Docker
 
 ## How I work
 
-I prefer proof before claims: a working route, a reproducible command, a failing test that becomes green, or an evidence artifact somebody else can inspect.
+I prefer proof before claims: a working route, a reproducible command, a failing test that becomes green, a signed receipt, or an evidence artifact somebody else can inspect.
 
-I document limitations alongside capabilities. A system that cannot support an answer should say so clearly rather than generate confidence from missing evidence.
+I document limitations alongside capabilities. If a system cannot support an answer or safely complete an action, it should say so instead of manufacturing confidence.
 
-## Open source
+## Current direction
 
-Useful contributions include failure reports, reproducible edge cases, documentation corrections and tightly scoped pull requests. Start with the open issues in [Lacuna](https://github.com/vaibhav4046/lacuna/issues) or inspect its [contribution guide](https://github.com/vaibhav4046/lacuna/blob/main/CONTRIBUTING.md).
+I am especially interested in the infrastructure underneath useful agents: how they discover one another, decide who should do work, carry memory across tasks, constrain authority, verify outputs and move value without duplicating side effects.
+
+That is the line connecting Yuzu, Leverage, Lacuna, ReqKeeper, QueueProof and HydraSentry.
 
 ## Contact
 
