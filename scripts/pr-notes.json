@@ -1,0 +1,13 @@
+{
+  "https://github.com/argotorg/fe/pull/2042": "visibility-check traits in `impl` headers and bounds (closed a soundness hole)",
+  "https://github.com/argotorg/fe/pull/2048": "`fe test` can set block timestamp and number",
+  "https://github.com/mohitsoni48/TurboLLM/pull/305": "MCP: share the in-flight HTTP handshake and await the initialized notification",
+  "https://github.com/mohitsoni48/TurboLLM/pull/304": "`fetch_url` reads a PDF's text layer",
+  "https://github.com/mohitsoni48/TurboLLM/pull/306": "add the llama.cpp-tq3 engine",
+  "https://github.com/mohitsoni48/TurboLLM/pull/331": "400, not 500, for malformed conversation and folder bodies",
+  "https://github.com/mohitsoni48/TurboLLM/pull/332": "one body reader for every route module",
+  "https://github.com/mohitsoni48/TurboLLM/pull/303": "patch a high-severity advisory (GHSA-mrhx-c7xc-m3w5)",
+  "https://github.com/hydra-db/selfgraph/pull/172": "unmerge no longer fails on references to deleted entities",
+  "https://github.com/KeeperHub/keeperhub/pull/2372": "release the idempotency key on a definite failure",
+  "https://github.com/KeeperHub/cli/pull/95": "`execute status` requires chain-verified receipts"
+}

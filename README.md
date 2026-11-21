@@ -15,7 +15,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/2026-4×%20Hackathon%20Winner-ff6a1a?style=for-the-badge" alt="4x hackathon winner in 2026">
-  <img src="https://img.shields.io/badge/Upstream-11%20merged%20PRs-2ea44f?style=for-the-badge&logo=github" alt="11 merged upstream pull requests">
+<!-- auto:badge:start -->
+<img src="https://img.shields.io/badge/Upstream-11%20merged%20PRs-2ea44f?style=for-the-badge&logo=github" alt="11 merged upstream pull requests">
+<!-- auto:badge:end -->
   <img src="https://img.shields.io/badge/SharedOS-Judges'%20Pick-111111?style=for-the-badge" alt="SharedOS Judges' Pick">
 </p>
 
@@ -25,20 +27,26 @@
 
 ## In one minute
 
-- **I land work in codebases I did not write.** 11 merged pull requests in 5 upstream repositories: a Rust smart-contract compiler, a Go CLI, a TypeScript automation platform, a knowledge-graph library and a local-LLM runtime. Nine of the eleven ship with new or changed tests.
+<!-- auto:summary:start -->
+- **I land work in codebases I did not write.** 11 merged pull requests in 5 upstream repositories, including argotorg/fe (1.7k★). 9 of the 11 add or change tests.
+<!-- auto:summary:end -->
 - **I ship to production URLs, not slides.** Every flagship below has a live deployment and public source.
 - **I build agent infrastructure:** markets, memory, retrieval with provenance, spending limits, evaluation and exactly-once side effects.
 - **I document what does not work** next to what does. If a system cannot support an answer or an action, it should say so.
 
 ## Open-source contributions (merged upstream)
 
+<!-- auto:oss:start -->
 | Project | ★ | Merged work |
 | --- | --- | --- |
-| [**argotorg/fe**](https://github.com/argotorg/fe) — Rust compiler for EVM smart contracts | 1.7k | [#2042](https://github.com/argotorg/fe/pull/2042) check the visibility of a trait named in an `impl` header or bound (closed a soundness hole that let private std traits be forged) · [#2048](https://github.com/argotorg/fe/pull/2048) `fe test` can set block timestamp and number |
-| [**mohitsoni48/TurboLLM**](https://github.com/mohitsoni48/TurboLLM) — local LLM runtime with OpenAI/Anthropic-compatible API | 297 | [#305](https://github.com/mohitsoni48/TurboLLM/pull/305) MCP: share the in-flight HTTP handshake · [#304](https://github.com/mohitsoni48/TurboLLM/pull/304) `fetch_url` reads PDF text · [#306](https://github.com/mohitsoni48/TurboLLM/pull/306) llama.cpp-tq3 engine · [#331](https://github.com/mohitsoni48/TurboLLM/pull/331) / [#332](https://github.com/mohitsoni48/TurboLLM/pull/332) one body reader and 400s instead of 500s across the API · [#303](https://github.com/mohitsoni48/TurboLLM/pull/303) patched a high-severity advisory (GHSA-mrhx-c7xc-m3w5) |
-| [**hydra-db/selfgraph**](https://github.com/hydra-db/selfgraph) — versioned knowledge graphs for agents | 205 | [#172](https://github.com/hydra-db/selfgraph/pull/172) unmerge no longer fails on references to deleted entities |
-| [**KeeperHub/keeperhub**](https://github.com/KeeperHub/keeperhub) — on-chain workflow automation | 25 | [#2372](https://github.com/KeeperHub/keeperhub/pull/2372) release the idempotency key on a definite failure |
-| [**KeeperHub/cli**](https://github.com/KeeperHub/cli) | — | [#95](https://github.com/KeeperHub/cli/pull/95) `execute status` requires chain-verified receipts |
+| [**argotorg/fe**](https://github.com/argotorg/fe) — Emerging smart contract language for the Ethereum blockchain. | 1.7k | [#2042](https://github.com/argotorg/fe/pull/2042) visibility-check traits in `impl` headers and bounds (closed a soundness hole) · [#2048](https://github.com/argotorg/fe/pull/2048) `fe test` can set block timestamp and number |
+| [**mohitsoni48/TurboLLM**](https://github.com/mohitsoni48/TurboLLM) — Run any local LLM engine, auto-tuned to your GPU — polished web UI +… | 297 | [#332](https://github.com/mohitsoni48/TurboLLM/pull/332) one body reader for every route module · [#331](https://github.com/mohitsoni48/TurboLLM/pull/331) 400, not 500, for malformed conversation and folder bodies · [#304](https://github.com/mohitsoni48/TurboLLM/pull/304) `fetch_url` reads a PDF's text layer · [#306](https://github.com/mohitsoni48/TurboLLM/pull/306) add the llama.cpp-tq3 engine · [#303](https://github.com/mohitsoni48/TurboLLM/pull/303) patch a high-severity advisory (GHSA-mrhx-c7xc-m3w5) · [#305](https://github.com/mohitsoni48/TurboLLM/pull/305) MCP: share the in-flight HTTP handshake and await the initialized notification |
+| [**hydra-db/selfgraph**](https://github.com/hydra-db/selfgraph) — Build and query versioned knowledge graphs for AI agents, with any gr… | 206 | [#172](https://github.com/hydra-db/selfgraph/pull/172) unmerge no longer fails on references to deleted entities |
+| [**KeeperHub/keeperhub**](https://github.com/KeeperHub/keeperhub) — Automate on-chain events and actions reliably and securely. Build Wor… | 25 | [#2372](https://github.com/KeeperHub/keeperhub/pull/2372) release the idempotency key on a definite failure |
+| [**KeeperHub/cli**](https://github.com/KeeperHub/cli) — KeeperHub CLI for workflow management, execution, and MCP server | 1 | [#95](https://github.com/KeeperHub/cli/pull/95) `execute status` requires chain-verified receipts |
+
+In review upstream right now: 6 pull requests (argotorg/fe, mohitsoni48/TurboLLM, hydra-db/mintlify-docs).
+<!-- auto:oss:end -->
 
 Also filed: compiler diagnostics and language issues on [Fe](https://github.com/argotorg/fe/issues?q=author%3Avaibhav4046), plus reconciliation bugs on [KeeperHub](https://github.com/KeeperHub/keeperhub/issues?q=author%3Avaibhav4046). [All my pull requests →](https://github.com/pulls?q=is%3Apr+author%3Avaibhav4046+-user%3Avaibhav4046)
 
@@ -67,6 +75,23 @@ No scoreboard inflation: finalist and participation results stay separate from w
 | **VIVA** | Voice-first active recall on AssemblyAI streaming, with source-grounded feedback | [Live](https://viva-five-murex.vercel.app) · [Source](https://github.com/vaibhav4046/viva) |
 | **Kodro** | Offline robot coding and kinematic simulation for the UK KS3/KS4 computing curriculum | [Live](https://vaibhav4046.github.io/kodro/) · [Source](https://github.com/vaibhav4046/kodro) |
 | **Cherry** | User-owned skills, memory, missions and verification for AI agents | [Live](https://cherry-wine.vercel.app) · [Source](https://github.com/vaibhav4046/cherry) |
+
+## Latest work
+
+<!-- auto:latest:start -->
+| Project | What it is | Started | Links |
+| --- | --- | --- | --- |
+| **plainpost** | PlainPost - consent-first hybrid AI letter explainer (Firebase AI Logic, on-device Gemini Nano + cloud fallback). #BuildHybridAI 2026 entry. | 2026-11-21 | [Source](https://github.com/vaibhav4046/plainpost) |
+| **hardstop** | HARDSTOP: a spending firewall for AI agents. One Fe policy kernel, enforced on-chain and simulated natively. | 2026-11-17 | [Live](https://hardstop-omega.vercel.app) · [Source](https://github.com/vaibhav4046/hardstop) |
+| **castle-remembers** | The Castle That Remembers: an explorable hand-painted 3D castle where keepsakes hold your memories. Manycore/Aholo Global AI Hackathon 2026. | 2026-11-17 | [Live](https://castle-remembers.vercel.app) · [Source](https://github.com/vaibhav4046/castle-remembers) |
+| **scamscreen** | Paste a suspicious text, email or DM - get plain-English red flags and what to do next. 100% on-device analysis, no account, no tracking. B… | 2026-11-15 | [Live](https://scamscreen-sigma.vercel.app) · [Source](https://github.com/vaibhav4046/scamscreen) |
+| **mimir** | Describe your workflow once. Mimir runs it. Local-first agent workspace with free local models. | 2026-11-15 | [Live](https://mimir-site-dusky.vercel.app) · [Source](https://github.com/vaibhav4046/mimir) |
+| **pocketpack** | Any article becomes an offline, accessible study pack: one small HTML file with chunked reading, read-aloud, dyslexia-friendly mode, glossa… | 2026-11-15 | [Live](https://pocketpack-one.vercel.app) · [Source](https://github.com/vaibhav4046/pocketpack) |
+| **shipcheck** | Paste a URL, say what should work. Shipcheck verifies it with Kane CLI, reads the failure, and loops until green. Kane CLI Online Hackathon… | 2026-11-14 | [Live](https://shipcheck-eta.vercel.app) · [Source](https://github.com/vaibhav4046/shipcheck) |
+| **oweleaf** | The invoice chaser that knows when not to chase. Reads overdue PayPal invoices, remembers client promises, prepares a follow-up only when o… | 2026-11-12 | [Live](https://oweleaf.vercel.app) · [Source](https://github.com/vaibhav4046/oweleaf) |
+
+<sub>This table and the open-source table update themselves from GitHub every 6 hours.</sub>
+<!-- auto:latest:end -->
 
 ## How I work (the forward-deployed part)
 
