@@ -28,7 +28,7 @@
 ## In one minute
 
 <!-- auto:summary:start -->
-- **I land work in codebases I did not write.** 11 merged pull requests in 5 upstream repositories, including argotorg/fe (1.7k★). 9 of the 11 add or change tests.
+- **I land work in codebases I did not write.** 11 merged pull requests in 5 upstream repositories, including argotorg/fe (1.7k★). 10 of the 11 add or change tests.
 <!-- auto:summary:end -->
 - **I ship to production URLs, not slides.** Every flagship below has a live deployment and public source.
 - **I build agent infrastructure:** markets, memory, retrieval with provenance, spending limits, evaluation and exactly-once side effects.

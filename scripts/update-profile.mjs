@@ -81,7 +81,7 @@ async function upstream() {
   await Promise.all(
     merged.map(async (pr) => {
       const files = await gh(`/repos/${repoOf(pr)}/pulls/${pr.number}/files?per_page=100`)
-      if (files.some((f) => /(^|\/)(tests?|__tests__|spec)(\/|$)|[._-](test|spec)\.|_test\.go$/i.test(f.filename))) withTests++
+      if (files.some((f) => /(^|\/)(tests?|__tests__|spec|uitest|fixtures?)(\/|$)|[._-](tests?|spec)\.|\.snap$/i.test(f.filename))) withTests++
     }),
   )
 
