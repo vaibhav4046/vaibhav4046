@@ -1,9 +1,10 @@
 <h1 align="center">Vaibhav Lalwani</h1>
 
-<p align="center"><strong>AI systems engineer building agents that can prove what they did.</strong></p>
+<p align="center"><strong>AI systems engineer. I ship agents into real codebases and make them prove what they did.</strong></p>
 
 <p align="center">
-  Liverpool, UK · MSc Advanced Data Science &amp; Artificial Intelligence · University of Liverpool
+  Liverpool, UK · MSc Advanced Data Science &amp; Artificial Intelligence · University of Liverpool<br>
+  Open to <strong>Senior AI Engineer</strong>, <strong>Forward Deployed Engineer</strong> and <strong>Applied AI</strong> roles
 </p>
 
 <p align="center">
@@ -14,6 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/2026-4×%20Hackathon%20Winner-ff6a1a?style=for-the-badge" alt="4x hackathon winner in 2026">
+  <img src="https://img.shields.io/badge/Upstream-11%20merged%20PRs-2ea44f?style=for-the-badge&logo=github" alt="11 merged upstream pull requests">
   <img src="https://img.shields.io/badge/SharedOS-Judges'%20Pick-111111?style=for-the-badge" alt="SharedOS Judges' Pick">
 </p>
 
@@ -21,76 +23,72 @@
   <img src="https://raw.githubusercontent.com/vaibhav4046/yuzu/master/public/art/problem-with-strangers.webp" alt="Yuzu: the market where agents hire agents" width="100%">
 </a>
 
-## Newest flagship: Yuzu 🍋
+## In one minute
 
-**The market where agents hire agents.**
+- **I land work in codebases I did not write.** 11 merged pull requests in 5 upstream repositories: a Rust smart-contract compiler, a Go CLI, a TypeScript automation platform, a knowledge-graph library and a local-LLM runtime. Nine of the eleven ship with new or changed tests.
+- **I ship to production URLs, not slides.** Every flagship below has a live deployment and public source.
+- **I build agent infrastructure:** markets, memory, retrieval with provenance, spending limits, evaluation and exactly-once side effects.
+- **I document what does not work** next to what does. If a system cannot support an answer or an action, it should say so.
 
-[Yuzu](https://yuzu-market.vercel.app/) takes a goal and a budget and runs the deal end to end: **discover → bid → prove → negotiate → contract → execute → verify → settle**. Seller claims are treated as evidence to test, permissions are scoped before work begins, and every completed deal can return a signed receipt describing what happened.
+## Open-source contributions (merged upstream)
 
-**🏆 SharedOS Hackathon · Judges’ Pick · 2026**
+| Project | ★ | Merged work |
+| --- | --- | --- |
+| [**argotorg/fe**](https://github.com/argotorg/fe) — Rust compiler for EVM smart contracts | 1.7k | [#2042](https://github.com/argotorg/fe/pull/2042) check the visibility of a trait named in an `impl` header or bound (closed a soundness hole that let private std traits be forged) · [#2048](https://github.com/argotorg/fe/pull/2048) `fe test` can set block timestamp and number |
+| [**mohitsoni48/TurboLLM**](https://github.com/mohitsoni48/TurboLLM) — local LLM runtime with OpenAI/Anthropic-compatible API | 297 | [#305](https://github.com/mohitsoni48/TurboLLM/pull/305) MCP: share the in-flight HTTP handshake · [#304](https://github.com/mohitsoni48/TurboLLM/pull/304) `fetch_url` reads PDF text · [#306](https://github.com/mohitsoni48/TurboLLM/pull/306) llama.cpp-tq3 engine · [#331](https://github.com/mohitsoni48/TurboLLM/pull/331) / [#332](https://github.com/mohitsoni48/TurboLLM/pull/332) one body reader and 400s instead of 500s across the API · [#303](https://github.com/mohitsoni48/TurboLLM/pull/303) patched a high-severity advisory (GHSA-mrhx-c7xc-m3w5) |
+| [**hydra-db/selfgraph**](https://github.com/hydra-db/selfgraph) — versioned knowledge graphs for agents | 205 | [#172](https://github.com/hydra-db/selfgraph/pull/172) unmerge no longer fails on references to deleted entities |
+| [**KeeperHub/keeperhub**](https://github.com/KeeperHub/keeperhub) — on-chain workflow automation | 25 | [#2372](https://github.com/KeeperHub/keeperhub/pull/2372) release the idempotency key on a definite failure |
+| [**KeeperHub/cli**](https://github.com/KeeperHub/cli) | — | [#95](https://github.com/KeeperHub/cli/pull/95) `execute status` requires chain-verified receipts |
 
-[Live market](https://yuzu-market.vercel.app/) · [Source](https://github.com/vaibhav4046/yuzu) · [Grant map](https://yuzu-market.vercel.app/api/grants?agent=f0cf3a2d-f961-4d9e-81bc-a19bab2ad61b) · [Manifest](https://yuzu-market.vercel.app/api/manifest)
+Also filed: compiler diagnostics and language issues on [Fe](https://github.com/argotorg/fe/issues?q=author%3Avaibhav4046), plus reconciliation bugs on [KeeperHub](https://github.com/KeeperHub/keeperhub/issues?q=author%3Avaibhav4046). [All my pull requests →](https://github.com/pulls?q=is%3Apr+author%3Avaibhav4046+-user%3Avaibhav4046)
 
 ## 2026 winner ledger
 
 | Result | Project | Event | What was built |
 | --- | --- | --- | --- |
-| **🏆 Judges’ Pick** | **Yuzu** | SharedOS Hackathon | Agent-to-agent market with proof, scoped authority and settlement receipts |
-| **🏆 Winner** | **Leverage** | RocketRide × SCU Buildathon | Model workforce manager with per-task auctions, test verification and cognitive handoff |
-| **🏆 Winner** | **QueueProof** | HydraDB × Connectors Hackathon | Evidence-backed cross-source retrieval with claim-level provenance |
-| **🏆 Winner** | **HydraSentry** | HydraDB Build Blitz | Memory-integrity firewall that blocks poisoned context before an agent acts |
+| **🏆 Judges’ Pick** | **[Yuzu](https://github.com/vaibhav4046/yuzu)** | SharedOS Hackathon | Agent-to-agent market with proof, scoped authority and settlement receipts |
+| **🏆 Winner** | **[Leverage](https://github.com/vaibhav4046/leverage)** | RocketRide × SCU Buildathon | Model workforce manager with per-task auctions, test verification and cognitive handoff |
+| **🏆 Winner** | **[QueueProof](https://github.com/vaibhav4046/queueproof)** | HydraDB × Connectors Hackathon | Evidence-backed cross-source retrieval with claim-level provenance |
+| **🏆 Winner** | **[HydraSentry](https://github.com/vaibhav4046/hydrasentry)** | HydraDB Build Blitz | Memory-integrity firewall that blocks poisoned context before an agent acts |
 
-No scoreboard inflation here: finalist and participation results stay separate from wins.
+No scoreboard inflation: finalist and participation results stay separate from wins.
 
-## Newest systems
+## Flagship systems
 
 | Project | What it demonstrates | Links |
 | --- | --- | --- |
-| **Yuzu** | Agents discovering, proving, contracting, executing and settling work with signed receipts | [Live](https://yuzu-market.vercel.app/) · [Source](https://github.com/vaibhav4046/yuzu) |
+| **Yuzu** | Agents that discover, bid, prove, contract, execute and settle work, ending in a signed receipt | [Live](https://yuzu-market.vercel.app/) · [Source](https://github.com/vaibhav4046/yuzu) |
+| **HARDSTOP** | A spending firewall for AI agents: one Fe policy kernel, enforced on-chain and simulated natively, with an MCP server | [Live](https://hardstop-omega.vercel.app) · [Source](https://github.com/vaibhav4046/hardstop) |
 | **Leverage** | Per-task model auctions, zero-budget routing, cognitive handoffs and repository-test verification | [Live](https://useleverage.vercel.app) · [Source](https://github.com/vaibhav4046/leverage) |
-| **VYREALM** | Local-first creator studio for editable video projects, real exports, captions, narration and optional MCP/local-model workflows | [Source](https://github.com/vaibhav4046/VYREALM) |
-| **ReqKeeper** | Exactly-once settlement for Request Network obligations through KeeperHub, including concurrent-worker and live-chain evidence | [Live](https://reqkeeper.vercel.app) · [Source](https://github.com/vaibhav4046/reqkeeper) |
-| **VIVA** | Voice-first active recall using AssemblyAI Dictation + live streaming with source-grounded feedback | [Live](https://viva-five-murex.vercel.app) · [Source](https://github.com/vaibhav4046/viva) |
+| **ReqKeeper** | Exactly-once settlement of Request Network obligations through KeeperHub, with concurrent-worker and live-chain evidence | [Live](https://reqkeeper.vercel.app) · [Source](https://github.com/vaibhav4046/reqkeeper) |
 | **Lacuna** | Temporal memory, exact provenance, contradiction handling and explicit abstention across web, CLI and MCP | [Live](https://lacuna-five.vercel.app/explore) · [Source](https://github.com/vaibhav4046/lacuna) |
 | **QueueProof** | Cross-source work retrieval with claim-level citations and inspectable evidence | [Live](https://queueproof.vercel.app) · [Source](https://github.com/vaibhav4046/queueproof) |
 | **HydraSentry** | Agent memory integrity, poisoned-context detection and signed integrity evidence | [Live](https://hydrasentry.vercel.app) · [Source](https://github.com/vaibhav4046/hydrasentry) |
-| **Kodro** | Offline robot coding and visual kinematic simulation for pupils, teachers and beginners | [Live](https://vaibhav4046.github.io/kodro/) · [Source](https://github.com/vaibhav4046/kodro) |
+| **VIVA** | Voice-first active recall on AssemblyAI streaming, with source-grounded feedback | [Live](https://viva-five-murex.vercel.app) · [Source](https://github.com/vaibhav4046/viva) |
+| **Kodro** | Offline robot coding and kinematic simulation for the UK KS3/KS4 computing curriculum | [Live](https://vaibhav4046.github.io/kodro/) · [Source](https://github.com/vaibhav4046/kodro) |
 | **Cherry** | User-owned skills, memory, missions and verification for AI agents | [Live](https://cherry-wine.vercel.app) · [Source](https://github.com/vaibhav4046/cherry) |
 
-## What I build
+## How I work (the forward-deployed part)
 
-- agent markets, orchestration and tool-using workflows;
-- memory, retrieval, provenance and evidence graphs;
-- evaluation systems that expose failures instead of hiding them;
-- MCP servers, CLIs, connectors and cross-surface contracts;
-- full-stack AI products with TypeScript, Python and durable data stores;
-- reproducible demos, tests and technical documentation.
+1. **Reproduce first.** Before changing someone else's system I get the failure to happen on my machine and write it down.
+2. **Smallest correct change, then a test that fails without it.** That is how the upstream PRs above got through maintainer review.
+3. **Proof over claims.** A working route, a reproducible command, a signed receipt or an evidence artifact somebody else can inspect.
+4. **Say what is not done.** Limitations go in the README next to the features.
 
 ## Core stack
 
 ```text
-Languages       TypeScript · Python · JavaScript · SQL
+Languages       TypeScript · Python · JavaScript · SQL · Rust (contributor) · Go (contributor)
+AI systems      Agents & tool use · MCP servers · RAG & hybrid retrieval · evals · provenance · guardrails
+Models          OpenAI · Anthropic · Groq · Gemini · local models (llama.cpp, Ollama)
 Frontend        React · Next.js · Vite · Tailwind CSS · Three.js
 Backend         Node.js · FastAPI · REST · serverless functions
 Data            PostgreSQL · MongoDB · HydraDB · Redis · vector search
-AI systems      RAG · agent workflows · MCP · evaluation · provenance
 Delivery        GitHub Actions · Vercel · AWS · GCP · Docker
 ```
 
-## How I work
-
-I prefer proof before claims: a working route, a reproducible command, a failing test that becomes green, a signed receipt, or an evidence artifact somebody else can inspect.
-
-I document limitations alongside capabilities. If a system cannot support an answer or safely complete an action, it should say so instead of manufacturing confidence.
-
-## Current direction
-
-I am especially interested in the infrastructure underneath useful agents: how they discover one another, decide who should do work, carry memory across tasks, constrain authority, verify outputs and move value without duplicating side effects.
-
-That is the line connecting Yuzu, Leverage, Lacuna, ReqKeeper, QueueProof and HydraSentry.
-
 ## Contact
 
-For AI/ML engineering, applied-AI collaboration or open-source work:
+For Senior AI Engineer, Forward Deployed Engineer, applied-AI or open-source work:
 
 [LinkedIn](https://www.linkedin.com/in/vaibhav-lalwani/) · [Portfolio](https://vaibhavlalwani.vercel.app) · [Email](mailto:vaibhavlalwani26969@gmail.com)
