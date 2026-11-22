@@ -41,7 +41,7 @@
 | --- | --- | --- |
 | [**argotorg/fe**](https://github.com/argotorg/fe) — Emerging smart contract language for the Ethereum blockchain. | 1.7k | [#2042](https://github.com/argotorg/fe/pull/2042) visibility-check traits in `impl` headers and bounds (closed a soundness hole) · [#2048](https://github.com/argotorg/fe/pull/2048) `fe test` can set block timestamp and number |
 | [**mohitsoni48/TurboLLM**](https://github.com/mohitsoni48/TurboLLM) — Run any local LLM engine, auto-tuned to your GPU — polished web UI +… | 298 | [#332](https://github.com/mohitsoni48/TurboLLM/pull/332) one body reader for every route module · [#331](https://github.com/mohitsoni48/TurboLLM/pull/331) 400, not 500, for malformed conversation and folder bodies · [#304](https://github.com/mohitsoni48/TurboLLM/pull/304) `fetch_url` reads a PDF's text layer · [#306](https://github.com/mohitsoni48/TurboLLM/pull/306) add the llama.cpp-tq3 engine · [#303](https://github.com/mohitsoni48/TurboLLM/pull/303) patch a high-severity advisory (GHSA-mrhx-c7xc-m3w5) · [#305](https://github.com/mohitsoni48/TurboLLM/pull/305) MCP: share the in-flight HTTP handshake and await the initialized notification |
-| [**hydra-db/selfgraph**](https://github.com/hydra-db/selfgraph) — Build and query versioned knowledge graphs for AI agents, with any gr… | 207 | [#172](https://github.com/hydra-db/selfgraph/pull/172) unmerge no longer fails on references to deleted entities |
+| [**hydra-db/selfgraph**](https://github.com/hydra-db/selfgraph) — Build and query versioned knowledge graphs for AI agents, with any gr… | 213 | [#172](https://github.com/hydra-db/selfgraph/pull/172) unmerge no longer fails on references to deleted entities |
 | [**KeeperHub/keeperhub**](https://github.com/KeeperHub/keeperhub) — Automate on-chain events and actions reliably and securely. Build Wor… | 25 | [#2372](https://github.com/KeeperHub/keeperhub/pull/2372) release the idempotency key on a definite failure |
 | [**KeeperHub/cli**](https://github.com/KeeperHub/cli) — KeeperHub CLI for workflow management, execution, and MCP server | 1 | [#95](https://github.com/KeeperHub/cli/pull/95) `execute status` requires chain-verified receipts |
 
@@ -81,14 +81,14 @@ No scoreboard inflation: finalist and participation results stay separate from w
 <!-- auto:latest:start -->
 | Project | What it is | Started | Links |
 | --- | --- | --- | --- |
+| **mcp-gatekeeper** | Deterministic, model-free MCP safety proxy for PostgreSQL: AST policy, optimistic concurrency, circuit breakers with compensation, savepoin… | 2026-11-22 | [Source](https://github.com/vaibhav4046/mcp-gatekeeper) |
+| **grounding-reranker** | PyTorch cross-encoder that checks whether a cited passage supports a claim (VitaminC, 0.908 acc / ECE 0.019 on 55k test pairs) | 2026-11-22 | [Source](https://github.com/vaibhav4046/grounding-reranker) |
+| **langchain-lacuna** | LangChain retriever with provenance and an abstaining LangGraph agent for Lacuna agent memory | 2026-11-22 | [Source](https://github.com/vaibhav4046/langchain-lacuna) |
+| **langchain-hardstop** | LangChain tools and a LangGraph guard node for HARDSTOP, a spending firewall for AI agents | 2026-11-21 | [Source](https://github.com/vaibhav4046/langchain-hardstop) |
 | **plainpost** | PlainPost - consent-first hybrid AI letter explainer (Firebase AI Logic, on-device Gemini Nano + cloud fallback). #BuildHybridAI 2026 entry. | 2026-11-21 | [Source](https://github.com/vaibhav4046/plainpost) |
 | **hardstop** | HARDSTOP: a spending firewall for AI agents. One Fe policy kernel, enforced on-chain and simulated natively. | 2026-11-17 | [Live](https://hardstop-omega.vercel.app) · [Source](https://github.com/vaibhav4046/hardstop) |
 | **castle-remembers** | The Castle That Remembers: an explorable hand-painted 3D castle where keepsakes hold your memories. Manycore/Aholo Global AI Hackathon 2026. | 2026-11-17 | [Live](https://castle-remembers.vercel.app) · [Source](https://github.com/vaibhav4046/castle-remembers) |
 | **scamscreen** | Paste a suspicious text, email or DM - get plain-English red flags and what to do next. 100% on-device analysis, no account, no tracking. B… | 2026-11-15 | [Live](https://scamscreen-sigma.vercel.app) · [Source](https://github.com/vaibhav4046/scamscreen) |
-| **mimir** | Describe your workflow once. Mimir runs it. Local-first agent workspace with free local models. | 2026-11-15 | [Live](https://mimir-site-dusky.vercel.app) · [Source](https://github.com/vaibhav4046/mimir) |
-| **pocketpack** | Any article becomes an offline, accessible study pack: one small HTML file with chunked reading, read-aloud, dyslexia-friendly mode, glossa… | 2026-11-15 | [Live](https://pocketpack-one.vercel.app) · [Source](https://github.com/vaibhav4046/pocketpack) |
-| **shipcheck** | Paste a URL, say what should work. Shipcheck verifies it with Kane CLI, reads the failure, and loops until green. Kane CLI Online Hackathon… | 2026-11-14 | [Live](https://shipcheck-eta.vercel.app) · [Source](https://github.com/vaibhav4046/shipcheck) |
-| **oweleaf** | The invoice chaser that knows when not to chase. Reads overdue PayPal invoices, remembers client promises, prepares a follow-up only when o… | 2026-11-12 | [Live](https://oweleaf.vercel.app) · [Source](https://github.com/vaibhav4046/oweleaf) |
 
 <sub>This table and the open-source table update themselves from GitHub every 6 hours.</sub>
 <!-- auto:latest:end -->
