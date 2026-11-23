@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/2026-4×%20Hackathon%20Winner-ff6a1a?style=for-the-badge" alt="4x hackathon winner in 2026">
 <!-- auto:badge:start -->
-<img src="https://img.shields.io/badge/Upstream-11%20merged%20PRs-2ea44f?style=for-the-badge&logo=github" alt="11 merged upstream pull requests">
+<img src="https://img.shields.io/badge/Upstream-15%20merged%20PRs-2ea44f?style=for-the-badge&logo=github" alt="15 merged upstream pull requests">
 <!-- auto:badge:end -->
   <img src="https://img.shields.io/badge/SharedOS-Judges'%20Pick-111111?style=for-the-badge" alt="SharedOS Judges' Pick">
 </p>
@@ -28,7 +28,7 @@
 ## In one minute
 
 <!-- auto:summary:start -->
-- **I land work in codebases I did not write.** 11 merged pull requests in 5 upstream repositories, including argotorg/fe (1.7k★). 10 of the 11 add or change tests.
+- **I land work in codebases I did not write.** 15 merged pull requests in 5 upstream repositories, including argotorg/fe (1.7k★). 14 of the 15 add or change tests.
 <!-- auto:summary:end -->
 - **I ship to production URLs, not slides.** Every flagship below has a live deployment and public source.
 - **I build agent infrastructure:** markets, memory, retrieval with provenance, spending limits, evaluation and exactly-once side effects.
@@ -40,12 +40,12 @@
 | Project | ★ | Merged work |
 | --- | --- | --- |
 | [**argotorg/fe**](https://github.com/argotorg/fe) — Emerging smart contract language for the Ethereum blockchain. | 1.7k | [#2042](https://github.com/argotorg/fe/pull/2042) visibility-check traits in `impl` headers and bounds (closed a soundness hole) · [#2048](https://github.com/argotorg/fe/pull/2048) `fe test` can set block timestamp and number |
-| [**mohitsoni48/TurboLLM**](https://github.com/mohitsoni48/TurboLLM) — Run any local LLM engine, auto-tuned to your GPU — polished web UI +… | 298 | [#332](https://github.com/mohitsoni48/TurboLLM/pull/332) one body reader for every route module · [#331](https://github.com/mohitsoni48/TurboLLM/pull/331) 400, not 500, for malformed conversation and folder bodies · [#304](https://github.com/mohitsoni48/TurboLLM/pull/304) `fetch_url` reads a PDF's text layer · [#306](https://github.com/mohitsoni48/TurboLLM/pull/306) add the llama.cpp-tq3 engine · [#303](https://github.com/mohitsoni48/TurboLLM/pull/303) patch a high-severity advisory (GHSA-mrhx-c7xc-m3w5) · [#305](https://github.com/mohitsoni48/TurboLLM/pull/305) MCP: share the in-flight HTTP handshake and await the initialized notification |
-| [**hydra-db/selfgraph**](https://github.com/hydra-db/selfgraph) — Build and query versioned knowledge graphs for AI agents, with any gr… | 228 | [#172](https://github.com/hydra-db/selfgraph/pull/172) unmerge no longer fails on references to deleted entities |
+| [**mohitsoni48/TurboLLM**](https://github.com/mohitsoni48/TurboLLM) — Run any local LLM engine, auto-tuned to your GPU — polished web UI +… | 298 | [#333](https://github.com/mohitsoni48/TurboLLM/pull/333) feat(chat): switch the agent of a chat that already has messages (#52) · [#344](https://github.com/mohitsoni48/TurboLLM/pull/344) fix(api): follow-ups to the review of #331 and #332 · [#328](https://github.com/mohitsoni48/TurboLLM/pull/328) Full voice conversation mode: hands-free speak-listen-reply loop · [#329](https://github.com/mohitsoni48/TurboLLM/pull/329) Gate the voice conversation behind a Settings opt-in, labelled Beta · [#332](https://github.com/mohitsoni48/TurboLLM/pull/332) one body reader for every route module · [#331](https://github.com/mohitsoni48/TurboLLM/pull/331) 400, not 500, for malformed conversation and folder bodies · [#304](https://github.com/mohitsoni48/TurboLLM/pull/304) `fetch_url` reads a PDF's text layer · [#306](https://github.com/mohitsoni48/TurboLLM/pull/306) add the llama.cpp-tq3 engine · [#303](https://github.com/mohitsoni48/TurboLLM/pull/303) patch a high-severity advisory (GHSA-mrhx-c7xc-m3w5) · [#305](https://github.com/mohitsoni48/TurboLLM/pull/305) MCP: share the in-flight HTTP handshake and await the initialized notification |
+| [**hydra-db/selfgraph**](https://github.com/hydra-db/selfgraph) — Build and query versioned knowledge graphs for AI agents, with any gr… | 229 | [#172](https://github.com/hydra-db/selfgraph/pull/172) unmerge no longer fails on references to deleted entities |
 | [**KeeperHub/keeperhub**](https://github.com/KeeperHub/keeperhub) — Automate on-chain events and actions reliably and securely. Build Wor… | 26 | [#2372](https://github.com/KeeperHub/keeperhub/pull/2372) release the idempotency key on a definite failure |
 | [**KeeperHub/cli**](https://github.com/KeeperHub/cli) — KeeperHub CLI for workflow management, execution, and MCP server | 1 | [#95](https://github.com/KeeperHub/cli/pull/95) `execute status` requires chain-verified receipts |
 
-In review upstream right now: 6 pull requests (argotorg/fe, mohitsoni48/TurboLLM, hydra-db/mintlify-docs).
+In review upstream right now: 8 pull requests (mohitsoni48/TurboLLM, argotorg/fe, hydra-db/mintlify-docs).
 <!-- auto:oss:end -->
 
 Also filed: compiler diagnostics and language issues on [Fe](https://github.com/argotorg/fe/issues?q=author%3Avaibhav4046), plus reconciliation bugs on [KeeperHub](https://github.com/KeeperHub/keeperhub/issues?q=author%3Avaibhav4046). [All my pull requests →](https://github.com/pulls?q=is%3Apr+author%3Avaibhav4046+-user%3Avaibhav4046)
