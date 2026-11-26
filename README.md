@@ -45,7 +45,7 @@
 | [**KeeperHub/keeperhub**](https://github.com/KeeperHub/keeperhub) — Automate on-chain events and actions reliably and securely. Build Wor… | 26 | [#2372](https://github.com/KeeperHub/keeperhub/pull/2372) release the idempotency key on a definite failure |
 | [**KeeperHub/cli**](https://github.com/KeeperHub/cli) — KeeperHub CLI for workflow management, execution, and MCP server | 1 | [#95](https://github.com/KeeperHub/cli/pull/95) `execute status` requires chain-verified receipts |
 
-In review upstream right now: 7 pull requests (CycloneDX/cyclonedx-python-lib, mohitsoni48/TurboLLM, argotorg/fe, hydra-db/mintlify-docs).
+In review upstream right now: 10 pull requests (grafana/grafana-plugin-sdk-go, karakeep-app/karakeep, equinor/ert, CycloneDX/cyclonedx-python-lib, mohitsoni48/TurboLLM, argotorg/fe, hydra-db/mintlify-docs).
 <!-- auto:oss:end -->
 
 Also filed: compiler diagnostics and language issues on [Fe](https://github.com/argotorg/fe/issues?q=author%3Avaibhav4046), plus reconciliation bugs on [KeeperHub](https://github.com/KeeperHub/keeperhub/issues?q=author%3Avaibhav4046). [All my pull requests →](https://github.com/pulls?q=is%3Apr+author%3Avaibhav4046+-user%3Avaibhav4046)
